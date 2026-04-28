@@ -4,8 +4,10 @@
     "composite": true,
     "rootDir": "src",
     "outDir": "dist",
-    "module": "esnext",
-    "moduleResolution": "bundler"
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+    "declaration": true,
+    "declarationMap": true
   },
   "include": ["src/**/*"]
 }
