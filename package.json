@@ -1,0 +1,26 @@
+{
+  "name": "webshop",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev:frontend": "npm run dev -w frontend",
+    "dev:backend": "npm run start:dev -w backend",
+
+    "build": "tsc -b packages/shared apps/backend && npm run build  -w frontend",
+    "build:shared": "npm run build -w @webshop/shared",
+    "build:backend": "npm run build -w backend",
+    "build:frontend": "npm run build -w frontend",
+    
+    "start:backend": "npm run start:prod -w backend",
+    "start:frontend": "serve apps/frontend/dist -s -l $PORT"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.0"
+  },
+  "dependencies": {
+    "@nestjs/config": "^4.0.4"
+  }
+}

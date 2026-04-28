@@ -1,0 +1,4 @@
+export const PRODUCT_PAGINATION_DEFAULTS = {
+  PAGE: 1,
+  LIMIT: 10,
+};

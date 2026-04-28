@@ -1,0 +1,5202 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15 Pro",
+    "description": "Titanium design, A17 Pro chip, 48MP camera system",
+    "price": 999,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=iPhone+15+Pro",
+    "rating": 4.8,
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S24",
+    "description": "Snapdragon 8 Gen 3, 50MP camera, 6.2\" display",
+    "price": 799,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=Galaxy+S24",
+    "rating": 4.6,
+    "stock": 15
+  },
+  {
+    "id": 3,
+    "name": "Google Pixel 8 Pro",
+    "description": "Tensor G3 chip, 50MP camera, 6.7\" LTPO OLED",
+    "price": 899,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=Pixel+8+Pro",
+    "rating": 4.7,
+    "stock": 12
+  },
+  {
+    "id": 4,
+    "name": "OnePlus 12",
+    "description": "Snapdragon 8 Gen 3, 100W fast charging, Hasselblad camera",
+    "price": 699,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=OnePlus+12",
+    "rating": 4.5,
+    "stock": 18
+  },
+  {
+    "id": 5,
+    "name": "Xiaomi 14 Ultra",
+    "description": "Leica quad camera, 90W wireless charging, 6.73\" AMOLED",
+    "price": 1099,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=Xiaomi+14+Ultra",
+    "rating": 4.6,
+    "stock": 7
+  },
+  {
+    "id": 6,
+    "name": "Sony Xperia 1 VI",
+    "description": "4K OLED display, Zeiss optics, 3x optical zoom",
+    "price": 1299,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=Xperia+1+VI",
+    "rating": 4.4,
+    "stock": 6
+  },
+  {
+    "id": 7,
+    "name": "Nothing Phone 2a",
+    "description": "Glyph Interface, Dimensity 7200 Pro, 50MP camera",
+    "price": 349,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=Nothing+2a",
+    "rating": 4.3,
+    "stock": 22
+  },
+  {
+    "id": 8,
+    "name": "Motorola Edge 50 Ultra",
+    "description": "Snapdragon 8s Gen 3, 125W charging, vegan leather back",
+    "price": 799,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=Edge+50+Ultra",
+    "rating": 4.4,
+    "stock": 9
+  },
+  {
+    "id": 9,
+    "name": "iPhone 15",
+    "description": "A16 Bionic, 48MP main camera, Dynamic Island",
+    "price": 799,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=iPhone+15",
+    "rating": 4.6,
+    "stock": 20
+  },
+  {
+    "id": 10,
+    "name": "Samsung Galaxy A55",
+    "description": "Exynos 1480, 50MP OIS camera, 5000mAh battery",
+    "price": 449,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=Galaxy+A55",
+    "rating": 4.2,
+    "stock": 30
+  },
+  {
+    "id": 11,
+    "name": "Oppo Find X7 Ultra",
+    "description": "Snapdragon 8 Gen 3, Hasselblad camera, 100W SuperVOOC",
+    "price": 1199,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=Find+X7+Ultra",
+    "rating": 4.7,
+    "stock": 5
+  },
+  {
+    "id": 12,
+    "name": "Vivo X100 Pro",
+    "description": "Dimensity 9300, ZEISS APO Telephoto, 4700mAh",
+    "price": 999,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=Vivo+X100+Pro",
+    "rating": 4.5,
+    "stock": 8
+  },
+  {
+    "id": 13,
+    "name": "Asus ROG Phone 8",
+    "description": "Snapdragon 8 Gen 3, 165Hz display, 6000mAh gaming battery",
+    "price": 1099,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=ROG+Phone+8",
+    "rating": 4.6,
+    "stock": 11
+  },
+  {
+    "id": 14,
+    "name": "Realme GT 6",
+    "description": "Snapdragon 8s Gen 3, 120W charging, AI features",
+    "price": 499,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=Realme+GT6",
+    "rating": 4.1,
+    "stock": 25
+  },
+  {
+    "id": 15,
+    "name": "Honor Magic6 Pro",
+    "description": "Snapdragon 8 Gen 3, 180MP periscope camera, 80W wireless",
+    "price": 1049,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=Magic6+Pro",
+    "rating": 4.5,
+    "stock": 7
+  },
+  {
+    "id": 16,
+    "name": "MacBook Pro 14\"",
+    "description": "M3 Pro chip, 18GB RAM, 512GB SSD, Liquid Retina display",
+    "price": 1999,
+    "category": "laptops",
+    "image": "https://placehold.co/400x400?text=MacBook+Pro+14",
+    "rating": 4.9,
+    "stock": 5
+  },
+  {
+    "id": 17,
+    "name": "MacBook Air 15\"",
+    "description": "M3 chip, 16GB RAM, 256GB SSD, fanless design",
+    "price": 1299,
+    "category": "laptops",
+    "image": "https://placehold.co/400x400?text=MacBook+Air+15",
+    "rating": 4.7,
+    "stock": 8
+  },
+  {
+    "id": 18,
+    "name": "Dell XPS 15",
+    "description": "Intel Core i7, 16GB RAM, OLED touch display",
+    "price": 1499,
+    "category": "laptops",
+    "image": "https://placehold.co/400x400?text=Dell+XPS+15",
+    "rating": 4.5,
+    "stock": 8
+  },
+  {
+    "id": 19,
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "description": "Intel Core Ultra 7, 32GB RAM, 1TB SSD, 14\" IPS",
+    "price": 1799,
+    "category": "laptops",
+    "image": "https://placehold.co/400x400?text=ThinkPad+X1",
+    "rating": 4.6,
+    "stock": 6
+  },
+  {
+    "id": 20,
+    "name": "HP Spectre x360 14",
+    "description": "2-in-1, Intel Core Ultra 5, 16GB, OLED touch, Pen included",
+    "price": 1399,
+    "category": "laptops",
+    "image": "https://placehold.co/400x400?text=Spectre+x360",
+    "rating": 4.4,
+    "stock": 9
+  },
+  {
+    "id": 21,
+    "name": "Asus ZenBook 14 OLED",
+    "description": "AMD Ryzen 7 8845HS, 32GB, 1TB, 14\" OLED 120Hz",
+    "price": 1099,
+    "category": "laptops",
+    "image": "https://placehold.co/400x400?text=ZenBook+14",
+    "rating": 4.5,
+    "stock": 12
+  },
+  {
+    "id": 22,
+    "name": "Microsoft Surface Pro 10",
+    "description": "Intel Core Ultra 5, 16GB, 256GB, detachable keyboard",
+    "price": 1599,
+    "category": "laptops",
+    "image": "https://placehold.co/400x400?text=Surface+Pro+10",
+    "rating": 4.3,
+    "stock": 7
+  },
+  {
+    "id": 23,
+    "name": "Razer Blade 16",
+    "description": "Intel Core i9 HX, RTX 4090, 32GB DDR5, 4K OLED 240Hz",
+    "price": 3499,
+    "category": "laptops",
+    "image": "https://placehold.co/400x400?text=Razer+Blade+16",
+    "rating": 4.7,
+    "stock": 3
+  },
+  {
+    "id": 24,
+    "name": "Acer Swift Go 14",
+    "description": "AMD Ryzen 5 8645HS, 16GB, 512GB, OLED display",
+    "price": 799,
+    "category": "laptops",
+    "image": "https://placehold.co/400x400?text=Swift+Go+14",
+    "rating": 4.2,
+    "stock": 15
+  },
+  {
+    "id": 25,
+    "name": "LG Gram 17",
+    "description": "Intel Core Ultra 7, 16GB, 1TB, 17\" IPS, MIL-STD-810H",
+    "price": 1499,
+    "category": "laptops",
+    "image": "https://placehold.co/400x400?text=LG+Gram+17",
+    "rating": 4.4,
+    "stock": 6
+  },
+  {
+    "id": 26,
+    "name": "Samsung Galaxy Book4 Pro",
+    "description": "Intel Core Ultra 7, 16GB, AMOLED 14\" display, AI features",
+    "price": 1399,
+    "category": "laptops",
+    "image": "https://placehold.co/400x400?text=Book4+Pro",
+    "rating": 4.5,
+    "stock": 10
+  },
+  {
+    "id": 27,
+    "name": "Asus ROG Zephyrus G14",
+    "description": "Ryzen 9 8945HS, RX 7900S, 32GB, QHD 165Hz OLED",
+    "price": 1799,
+    "category": "laptops",
+    "image": "https://placehold.co/400x400?text=Zephyrus+G14",
+    "rating": 4.7,
+    "stock": 5
+  },
+  {
+    "id": 28,
+    "name": "Dell Inspiron 16",
+    "description": "Intel Core i5, 8GB RAM, 512GB SSD, 16\" FHD+",
+    "price": 649,
+    "category": "laptops",
+    "image": "https://placehold.co/400x400?text=Inspiron+16",
+    "rating": 4,
+    "stock": 20
+  },
+  {
+    "id": 29,
+    "name": "MSI Titan GT77 HX",
+    "description": "Core i9-13980HX, RTX 4090, 64GB DDR5, 4K 144Hz",
+    "price": 4499,
+    "category": "laptops",
+    "image": "https://placehold.co/400x400?text=MSI+Titan",
+    "rating": 4.6,
+    "stock": 2
+  },
+  {
+    "id": 30,
+    "name": "Lenovo IdeaPad Slim 5",
+    "description": "AMD Ryzen 5 7530U, 16GB, 512GB, 14\" FHD IPS",
+    "price": 549,
+    "category": "laptops",
+    "image": "https://placehold.co/400x400?text=IdeaPad+Slim5",
+    "rating": 4.1,
+    "stock": 25
+  },
+  {
+    "id": 31,
+    "name": "Sony WH-1000XM5",
+    "description": "Industry-leading noise cancellation, 30h battery",
+    "price": 349,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=Sony+XM5",
+    "rating": 4.7,
+    "stock": 20
+  },
+  {
+    "id": 32,
+    "name": "AirPods Pro 2",
+    "description": "Active noise cancellation, Adaptive Audio, USB-C",
+    "price": 249,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=AirPods+Pro+2",
+    "rating": 4.8,
+    "stock": 25
+  },
+  {
+    "id": 33,
+    "name": "Bose QuietComfort 45",
+    "description": "World-class noise cancellation, 24h battery, soft cushions",
+    "price": 329,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=QC45",
+    "rating": 4.6,
+    "stock": 15
+  },
+  {
+    "id": 34,
+    "name": "Sennheiser Momentum 4",
+    "description": "60h battery, Adaptive ANC, aptX HD, foldable design",
+    "price": 349,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=Momentum+4",
+    "rating": 4.7,
+    "stock": 11
+  },
+  {
+    "id": 35,
+    "name": "Apple AirPods Max",
+    "description": "High-fidelity audio, mesh headband, 20h battery",
+    "price": 549,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=AirPods+Max",
+    "rating": 4.5,
+    "stock": 8
+  },
+  {
+    "id": 36,
+    "name": "Jabra Evolve2 85",
+    "description": "Professional ANC headset, 37h battery, 8-mic call quality",
+    "price": 449,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=Evolve2+85",
+    "rating": 4.4,
+    "stock": 12
+  },
+  {
+    "id": 37,
+    "name": "Samsung Galaxy Buds3 Pro",
+    "description": "Blade design, ANC, 360 Audio, 6h + 24h battery",
+    "price": 249,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=Buds3+Pro",
+    "rating": 4.4,
+    "stock": 18
+  },
+  {
+    "id": 38,
+    "name": "Sony WF-1000XM5",
+    "description": "Best-in-class ANC TWS, 8h + 16h, LDAC support",
+    "price": 279,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=WF1000XM5",
+    "rating": 4.7,
+    "stock": 14
+  },
+  {
+    "id": 39,
+    "name": "Bose SoundLink Max",
+    "description": "Portable speaker, IP67, 20h battery, multi-device pairing",
+    "price": 399,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=SoundLink+Max",
+    "rating": 4.6,
+    "stock": 10
+  },
+  {
+    "id": 40,
+    "name": "JBL Charge 5",
+    "description": "IP67 waterproof speaker, 20h playtime, powerbank feature",
+    "price": 179,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=JBL+Charge5",
+    "rating": 4.5,
+    "stock": 30
+  },
+  {
+    "id": 41,
+    "name": "Marshall Emberton III",
+    "description": "IP67, 32h battery, 360-degree sound, USB-C",
+    "price": 149,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=Emberton+III",
+    "rating": 4.4,
+    "stock": 22
+  },
+  {
+    "id": 42,
+    "name": "Devialet Phantom II",
+    "description": "Audiophile wireless speaker, 98dB SPL, Deep Sound Effect",
+    "price": 1490,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=Phantom+II",
+    "rating": 4.8,
+    "stock": 3
+  },
+  {
+    "id": 43,
+    "name": "Sonos Era 300",
+    "description": "Dolby Atmos, spatial audio, six drivers, Wi-Fi & Bluetooth",
+    "price": 449,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=Sonos+Era300",
+    "rating": 4.6,
+    "stock": 9
+  },
+  {
+    "id": 44,
+    "name": "Anker Soundcore Liberty 4",
+    "description": "LDAC, ANC, hear ID, 9h + 28h battery",
+    "price": 99,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=Liberty+4",
+    "rating": 4.2,
+    "stock": 35
+  },
+  {
+    "id": 45,
+    "name": "Beyerdynamic DT 990 Pro",
+    "description": "Open-back studio headphones, 250Ω, velour pads",
+    "price": 169,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=DT+990+Pro",
+    "rating": 4.6,
+    "stock": 16
+  },
+  {
+    "id": 46,
+    "name": "iPad Air M2",
+    "description": "M2 chip, 11\" Liquid Retina, Apple Pencil Pro support",
+    "price": 599,
+    "category": "tablets",
+    "image": "https://placehold.co/400x400?text=iPad+Air+M2",
+    "rating": 4.7,
+    "stock": 12
+  },
+  {
+    "id": 47,
+    "name": "iPad Pro 13\" M4",
+    "description": "M4 chip, Ultra Retina XDR OLED, tandem OLED, Nano-texture glass",
+    "price": 1299,
+    "category": "tablets",
+    "image": "https://placehold.co/400x400?text=iPad+Pro+M4",
+    "rating": 4.9,
+    "stock": 6
+  },
+  {
+    "id": 48,
+    "name": "Samsung Galaxy Tab S9 Ultra",
+    "description": "14.6\" AMOLED, Snapdragon 8 Gen 2, S Pen included, IP68",
+    "price": 1199,
+    "category": "tablets",
+    "image": "https://placehold.co/400x400?text=Tab+S9+Ultra",
+    "rating": 4.7,
+    "stock": 5
+  },
+  {
+    "id": 49,
+    "name": "Samsung Galaxy Tab S9",
+    "description": "Snapdragon 8 Gen 2, AMOLED display, IP68",
+    "price": 699,
+    "category": "tablets",
+    "image": "https://placehold.co/400x400?text=Galaxy+Tab+S9",
+    "rating": 4.5,
+    "stock": 9
+  },
+  {
+    "id": 50,
+    "name": "Microsoft Surface Pro 10",
+    "description": "Intel Core Ultra 5, 2880×1920 display, 5G option, eSIM",
+    "price": 1599,
+    "category": "tablets",
+    "image": "https://placehold.co/400x400?text=Surface+Pro+10",
+    "rating": 4.3,
+    "stock": 7
+  },
+  {
+    "id": 51,
+    "name": "Lenovo Tab P12 Pro",
+    "description": "12.6\" AMOLED 2.5K, Snapdragon 870, 10200mAh, Precision Pen 3",
+    "price": 699,
+    "category": "tablets",
+    "image": "https://placehold.co/400x400?text=Tab+P12+Pro",
+    "rating": 4.4,
+    "stock": 0
+  },
+  {
+    "id": 52,
+    "name": "Xiaomi Pad 6 Max",
+    "description": "14\" 144Hz LCD, Snapdragon 8+ Gen 1, 10000mAh, 67W charging",
+    "price": 649,
+    "category": "tablets",
+    "image": "https://placehold.co/400x400?text=Pad+6+Max",
+    "rating": 4.3,
+    "stock": 8
+  },
+  {
+    "id": 53,
+    "name": "Amazon Fire Max 11",
+    "description": "11\" 2K display, MediaTek MT8188J, stylus & keyboard support",
+    "price": 229,
+    "category": "tablets",
+    "image": "https://placehold.co/400x400?text=Fire+Max+11",
+    "rating": 3.9,
+    "stock": 0
+  },
+  {
+    "id": 54,
+    "name": "Huawei MatePad Pro 13.2\"",
+    "description": "OLED 144Hz, Kirin 9000s, NearLink, M Pencil 3rd gen",
+    "price": 799,
+    "category": "tablets",
+    "image": "https://placehold.co/400x400?text=MatePad+Pro",
+    "rating": 4.4,
+    "stock": 6
+  },
+  {
+    "id": 55,
+    "name": "Onyx Boox Tab Ultra C",
+    "description": "10.3\" color E-ink, Qualcomm 662, Android 12, stylus",
+    "price": 549,
+    "category": "tablets",
+    "image": "https://placehold.co/400x400?text=Boox+Tab+C",
+    "rating": 4.2,
+    "stock": 4
+  },
+  {
+    "id": 56,
+    "name": "Apple Watch Ultra 2",
+    "description": "Titanium case, Alpine Loop, Action button, 60h battery",
+    "price": 799,
+    "category": "smartwatches",
+    "image": "https://placehold.co/400x400?text=Watch+Ultra+2",
+    "rating": 4.8,
+    "stock": 0
+  },
+  {
+    "id": 57,
+    "name": "Apple Watch Series 9",
+    "description": "S9 chip, Double Tap gesture, always-on Retina display",
+    "price": 399,
+    "category": "smartwatches",
+    "image": "https://placehold.co/400x400?text=Watch+Series+9",
+    "rating": 4.7,
+    "stock": 15
+  },
+  {
+    "id": 58,
+    "name": "Samsung Galaxy Watch 7",
+    "description": "Exynos W1000, Advanced sleep tracking, BIA sensor",
+    "price": 299,
+    "category": "smartwatches",
+    "image": "https://placehold.co/400x400?text=Galaxy+Watch+7",
+    "rating": 4.5,
+    "stock": 0
+  },
+  {
+    "id": 59,
+    "name": "Garmin Fenix 7X Pro",
+    "description": "Solar, multi-band GPS, topographic maps, 28-day battery",
+    "price": 899,
+    "category": "smartwatches",
+    "image": "https://placehold.co/400x400?text=Fenix+7X",
+    "rating": 4.8,
+    "stock": 6
+  },
+  {
+    "id": 60,
+    "name": "Withings ScanWatch 2",
+    "description": "ECG, SpO2, sleep apnea detection, 30-day battery",
+    "price": 349,
+    "category": "smartwatches",
+    "image": "https://placehold.co/400x400?text=ScanWatch+2",
+    "rating": 4.5,
+    "stock": 9
+  },
+  {
+    "id": 61,
+    "name": "Fitbit Charge 6",
+    "description": "Google Maps, ECG, YouTube Music, 7-day battery",
+    "price": 159,
+    "category": "smartwatches",
+    "image": "https://placehold.co/400x400?text=Charge+6",
+    "rating": 4.2,
+    "stock": 20
+  },
+  {
+    "id": 62,
+    "name": "Huawei Watch GT 4",
+    "description": "14-day battery, TruSeen 5.5+ heart rate, tri-axis sports data",
+    "price": 249,
+    "category": "smartwatches",
+    "image": "https://placehold.co/400x400?text=Watch+GT4",
+    "rating": 4.4,
+    "stock": 11
+  },
+  {
+    "id": 63,
+    "name": "Polar Vantage V3",
+    "description": "Dual-frequency GPS, SWR10 ECG/heart rate, Elixir display",
+    "price": 599,
+    "category": "smartwatches",
+    "image": "https://placehold.co/400x400?text=Vantage+V3",
+    "rating": 4.6,
+    "stock": 5
+  },
+  {
+    "id": 64,
+    "name": "Amazfit Balance",
+    "description": "14-day battery, Zepp Coach AI, AMOLED, Bluetooth calling",
+    "price": 199,
+    "category": "smartwatches",
+    "image": "https://placehold.co/400x400?text=Amazfit+Balance",
+    "rating": 4.1,
+    "stock": 0
+  },
+  {
+    "id": 65,
+    "name": "Mobvoi TicWatch Pro 5",
+    "description": "Wear OS, Snapdragon W5+, dual-layer display, 80h battery",
+    "price": 299,
+    "category": "smartwatches",
+    "image": "https://placehold.co/400x400?text=TicWatch+Pro5",
+    "rating": 4,
+    "stock": 13
+  },
+  {
+    "id": 66,
+    "name": "Sony A7 IV",
+    "description": "33MP full-frame BSI CMOS, 4K 60fps, real-time tracking AF",
+    "price": 2499,
+    "category": "cameras",
+    "image": "https://placehold.co/400x400?text=Sony+A7+IV",
+    "rating": 4.8,
+    "stock": 4
+  },
+  {
+    "id": 67,
+    "name": "Canon EOS R6 Mark II",
+    "description": "24.2MP, 40fps burst, 6K RAW video, subject tracking",
+    "price": 2499,
+    "category": "cameras",
+    "image": "https://placehold.co/400x400?text=EOS+R6+II",
+    "rating": 4.7,
+    "stock": 5
+  },
+  {
+    "id": 68,
+    "name": "Nikon Z6 III",
+    "description": "24.5MP stacked CMOS, 6K RAW, 120fps 4K, pre-burst capture",
+    "price": 2499,
+    "category": "cameras",
+    "image": "https://placehold.co/400x400?text=Nikon+Z6+III",
+    "rating": 4.7,
+    "stock": 4
+  },
+  {
+    "id": 69,
+    "name": "Fujifilm X100VI",
+    "description": "40MP X-Trans BSI CMOS 5 HR, IBIS, 6.2K video",
+    "price": 1599,
+    "category": "cameras",
+    "image": "https://placehold.co/400x400?text=X100VI",
+    "rating": 4.9,
+    "stock": 0
+  },
+  {
+    "id": 70,
+    "name": "OM System OM-5",
+    "description": "MFT, 20MP, 5-axis IBIS, weather-sealed, 4K 30fps",
+    "price": 999,
+    "category": "cameras",
+    "image": "https://placehold.co/400x400?text=OM+System+OM5",
+    "rating": 4.5,
+    "stock": 8
+  },
+  {
+    "id": 71,
+    "name": "GoPro Hero 13 Black",
+    "description": "HyperSmooth 6.0, ND filters, 5.3K60 video, 27MP photos",
+    "price": 399,
+    "category": "cameras",
+    "image": "https://placehold.co/400x400?text=Hero+13",
+    "rating": 4.6,
+    "stock": 15
+  },
+  {
+    "id": 72,
+    "name": "DJI Osmo Pocket 3",
+    "description": "1\" CMOS, 4K120fps, ActiveTrack 6.0, 3-axis stabilization",
+    "price": 519,
+    "category": "cameras",
+    "image": "https://placehold.co/400x400?text=Pocket+3",
+    "rating": 4.7,
+    "stock": 10
+  },
+  {
+    "id": 73,
+    "name": "Ricoh GR IIIx",
+    "description": "26.1MP, 40mm equivalent, ND filter, compact street camera",
+    "price": 999,
+    "category": "cameras",
+    "image": "https://placehold.co/400x400?text=GR+IIIx",
+    "rating": 4.7,
+    "stock": 6
+  },
+  {
+    "id": 74,
+    "name": "Sony ZV-E10 II",
+    "description": "26MP APS-C, real-time tracking, 4K 60fps, flip screen",
+    "price": 799,
+    "category": "cameras",
+    "image": "https://placehold.co/400x400?text=ZV-E10+II",
+    "rating": 4.4,
+    "stock": 0
+  },
+  {
+    "id": 75,
+    "name": "Insta360 X4",
+    "description": "8K 360° video, FlowState stabilization, Active HDR",
+    "price": 499,
+    "category": "cameras",
+    "image": "https://placehold.co/400x400?text=Insta360+X4",
+    "rating": 4.5,
+    "stock": 9
+  },
+  {
+    "id": 76,
+    "name": "PlayStation 5 Slim",
+    "description": "AMD Zen 2 + RDNA 2, 1TB SSD, 4K 120fps, DualSense",
+    "price": 499,
+    "category": "gaming",
+    "image": "https://placehold.co/400x400?text=PS5+Slim",
+    "rating": 4.8,
+    "stock": 6
+  },
+  {
+    "id": 77,
+    "name": "Xbox Series X",
+    "description": "12 teraflops GPU, 1TB SSD, Game Pass, Quick Resume",
+    "price": 499,
+    "category": "gaming",
+    "image": "https://placehold.co/400x400?text=Xbox+Series+X",
+    "rating": 4.7,
+    "stock": 0
+  },
+  {
+    "id": 78,
+    "name": "Nintendo Switch OLED",
+    "description": "7\" OLED screen, 64GB storage, LAN port, enhanced audio",
+    "price": 349,
+    "category": "gaming",
+    "image": "https://placehold.co/400x400?text=Switch+OLED",
+    "rating": 4.7,
+    "stock": 20
+  },
+  {
+    "id": 79,
+    "name": "Steam Deck OLED",
+    "description": "7.4\" OLED, AMD APU, 512GB NVMe, up to 12h battery",
+    "price": 549,
+    "category": "gaming",
+    "image": "https://placehold.co/400x400?text=Steam+Deck+OLED",
+    "rating": 4.8,
+    "stock": 10
+  },
+  {
+    "id": 80,
+    "name": "Asus ROG Ally X",
+    "description": "AMD Ryzen Z1 Extreme, 80Wh battery, 7\" 120Hz display",
+    "price": 799,
+    "category": "gaming",
+    "image": "https://placehold.co/400x400?text=ROG+Ally+X",
+    "rating": 4.5,
+    "stock": 7
+  },
+  {
+    "id": 81,
+    "name": "DualSense Edge",
+    "description": "Customizable buttons, swappable sticks, adaptive triggers",
+    "price": 199,
+    "category": "gaming",
+    "image": "https://placehold.co/400x400?text=DualSense+Edge",
+    "rating": 4.6,
+    "stock": 15
+  },
+  {
+    "id": 82,
+    "name": "Xbox Elite Controller Series 2",
+    "description": "Adjustable tension thumbsticks, wrap-around rubberized grip",
+    "price": 179,
+    "category": "gaming",
+    "image": "https://placehold.co/400x400?text=Elite+Series+2",
+    "rating": 4.5,
+    "stock": 12
+  },
+  {
+    "id": 83,
+    "name": "Razer DeathAdder V3 Pro",
+    "description": "Wireless gaming mouse, Focus Pro 35K DPI optical sensor",
+    "price": 149,
+    "category": "gaming",
+    "image": "https://placehold.co/400x400?text=DeathAdder+V3",
+    "rating": 4.6,
+    "stock": 18
+  },
+  {
+    "id": 84,
+    "name": "SteelSeries Arctis Nova Pro",
+    "description": "Hi-Res audio, multi-system, hot-swappable battery, ANC",
+    "price": 349,
+    "category": "gaming",
+    "image": "https://placehold.co/400x400?text=Arctis+Nova",
+    "rating": 4.5,
+    "stock": 9
+  },
+  {
+    "id": 85,
+    "name": "Corsair K100 RGB",
+    "description": "OPX optical-mechanical switches, 44-zone RGB, iCUE",
+    "price": 229,
+    "category": "gaming",
+    "image": "https://placehold.co/400x400?text=K100+RGB",
+    "rating": 4.4,
+    "stock": 11
+  },
+  {
+    "id": 86,
+    "name": "LG 27GP950-B",
+    "description": "27\" 4K UHD, IPS Nano, 144Hz, 1ms, HDMI 2.1, G-Sync",
+    "price": 799,
+    "category": "monitors",
+    "image": "https://placehold.co/400x400?text=LG+27GP950",
+    "rating": 4.7,
+    "stock": 8
+  },
+  {
+    "id": 87,
+    "name": "Samsung Odyssey G9",
+    "description": "49\" ultrawide, DQHD 5120x1440, QLED 240Hz, curved",
+    "price": 1299,
+    "category": "monitors",
+    "image": "https://placehold.co/400x400?text=Odyssey+G9",
+    "rating": 4.5,
+    "stock": 4
+  },
+  {
+    "id": 88,
+    "name": "Dell Alienware AW3423DWF",
+    "description": "34\" QD-OLED, 165Hz, 0.1ms, 3440x1440, FreeSync Premium",
+    "price": 899,
+    "category": "monitors",
+    "image": "https://placehold.co/400x400?text=AW3423DWF",
+    "rating": 4.8,
+    "stock": 0
+  },
+  {
+    "id": 89,
+    "name": "ASUS ProArt PA32UCX",
+    "description": "32\" 4K IPS, 1000nits, 99% DCI-P3, Calman ready, Thunderbolt 3",
+    "price": 1999,
+    "category": "monitors",
+    "image": "https://placehold.co/400x400?text=ProArt+PA32UCX",
+    "rating": 4.7,
+    "stock": 3
+  },
+  {
+    "id": 90,
+    "name": "Acer Nitro XV272U",
+    "description": "27\" QHD IPS, 170Hz, 1ms, AMD FreeSync Premium, USB-C",
+    "price": 349,
+    "category": "monitors",
+    "image": "https://placehold.co/400x400?text=XV272U",
+    "rating": 4.4,
+    "stock": 14
+  },
+  {
+    "id": 91,
+    "name": "BenQ PD3220U",
+    "description": "32\" 4K IPS, Thunderbolt 3, sRGB/Rec.709, designer monitor",
+    "price": 1099,
+    "category": "monitors",
+    "image": "https://placehold.co/400x400?text=PD3220U",
+    "rating": 4.6,
+    "stock": 6
+  },
+  {
+    "id": 92,
+    "name": "LG UltraFine 32EP950",
+    "description": "32\" 4K OLED, 99% DCI-P3, 1ms, USB-C 90W, hardware calibration",
+    "price": 2499,
+    "category": "monitors",
+    "image": "https://placehold.co/400x400?text=32EP950",
+    "rating": 4.8,
+    "stock": 2
+  },
+  {
+    "id": 93,
+    "name": "Gigabyte M32U",
+    "description": "32\" 4K IPS, 144Hz, 1ms, KVM switch, USB-C 15W",
+    "price": 699,
+    "category": "monitors",
+    "image": "https://placehold.co/400x400?text=Gigabyte+M32U",
+    "rating": 4.5,
+    "stock": 9
+  },
+  {
+    "id": 94,
+    "name": "ViewSonic VP2786-4K",
+    "description": "27\" 4K IPS, 100% sRGB/Rec.709, ColourPro calibration, USB-C",
+    "price": 799,
+    "category": "monitors",
+    "image": "https://placehold.co/400x400?text=VP2786-4K",
+    "rating": 4.4,
+    "stock": 7
+  },
+  {
+    "id": 95,
+    "name": "Philips Evnia 27M1N5500",
+    "description": "27\" QHD IPS Nano, 165Hz, 1ms, HDMI 2.0, USB-C",
+    "price": 399,
+    "category": "monitors",
+    "image": "https://placehold.co/400x400?text=Evnia+27M1N",
+    "rating": 4.3,
+    "stock": 11
+  },
+  {
+    "id": 96,
+    "name": "Amazon Echo Show 15",
+    "description": "15.6\" Smart Display, Alexa, widget dashboard, Fire TV built-in",
+    "price": 249,
+    "category": "smarthome",
+    "image": "https://placehold.co/400x400?text=Echo+Show+15",
+    "rating": 4.4,
+    "stock": 12
+  },
+  {
+    "id": 97,
+    "name": "Google Nest Hub 2",
+    "description": "7\" display, Sleep Sensing, Ambient EQ, Chromecast built-in",
+    "price": 99,
+    "category": "smarthome",
+    "image": "https://placehold.co/400x400?text=Nest+Hub+2",
+    "rating": 4.3,
+    "stock": 20
+  },
+  {
+    "id": 98,
+    "name": "Philips Hue Starter Kit",
+    "description": "3x A19 color bulbs + Bridge, 16M colors, voice control",
+    "price": 199,
+    "category": "smarthome",
+    "image": "https://placehold.co/400x400?text=Hue+Starter",
+    "rating": 4.5,
+    "stock": 18
+  },
+  {
+    "id": 99,
+    "name": "Ring Video Doorbell Pro 2",
+    "description": "1536p HDR video, head-to-toe view, 3D motion detection",
+    "price": 249,
+    "category": "smarthome",
+    "image": "https://placehold.co/400x400?text=Ring+Doorbell",
+    "rating": 4.4,
+    "stock": 15
+  },
+  {
+    "id": 100,
+    "name": "Arlo Pro 5S",
+    "description": "4K HDR security camera, color night vision, 180° view, IP65",
+    "price": 349,
+    "category": "smarthome",
+    "image": "https://placehold.co/400x400?text=Arlo+Pro+5S",
+    "rating": 4.5,
+    "stock": 10
+  },
+  {
+    "id": 101,
+    "name": "Nest Learning Thermostat",
+    "description": "Self-programming, energy history, remote control, Farsight",
+    "price": 249,
+    "category": "smarthome",
+    "image": "https://placehold.co/400x400?text=Nest+Thermostat",
+    "rating": 4.6,
+    "stock": 13
+  },
+  {
+    "id": 102,
+    "name": "Eve Energy Smart Plug",
+    "description": "Apple HomeKit, energy monitoring, schedule & automations",
+    "price": 39,
+    "category": "smarthome",
+    "image": "https://placehold.co/400x400?text=Eve+Energy",
+    "rating": 4.3,
+    "stock": 40
+  },
+  {
+    "id": 103,
+    "name": "TP-Link Tapo C500",
+    "description": "1080p outdoor cam, 360° pan/tilt, IP66, color night vision",
+    "price": 49,
+    "category": "smarthome",
+    "image": "https://placehold.co/400x400?text=Tapo+C500",
+    "rating": 4.1,
+    "stock": 35
+  },
+  {
+    "id": 104,
+    "name": "LIFX Color A60",
+    "description": "No hub required, 16M colors, 1100 lumens, Wi-Fi smart bulb",
+    "price": 29,
+    "category": "smarthome",
+    "image": "https://placehold.co/400x400?text=LIFX+Color",
+    "rating": 4.2,
+    "stock": 50
+  },
+  {
+    "id": 105,
+    "name": "Wemo Smart Plug Mini",
+    "description": "No hub, Alexa/Google/HomeKit, 15A, energy monitoring",
+    "price": 24,
+    "category": "smarthome",
+    "image": "https://placehold.co/400x400?text=Wemo+Mini",
+    "rating": 4,
+    "stock": 55
+  },
+  {
+    "id": 106,
+    "name": "Asus ROG Rapture GT-BE98",
+    "description": "Wi-Fi 7, quad-band, 25Gbps WAN/LAN, MU-MIMO",
+    "price": 699,
+    "category": "networking",
+    "image": "https://placehold.co/400x400?text=ROG+GT-BE98",
+    "rating": 4.7,
+    "stock": 5
+  },
+  {
+    "id": 107,
+    "name": "Eero Pro 6E (3-Pack)",
+    "description": "Wi-Fi 6E, mesh system, 6Gbps, TrueMesh, Alexa built-in",
+    "price": 599,
+    "category": "networking",
+    "image": "https://placehold.co/400x400?text=Eero+Pro+6E",
+    "rating": 4.5,
+    "stock": 8
+  },
+  {
+    "id": 108,
+    "name": "TP-Link Archer AXE300",
+    "description": "Wi-Fi 6E, 10Gbps port, quad-band, 12 antennas",
+    "price": 449,
+    "category": "networking",
+    "image": "https://placehold.co/400x400?text=AXE300",
+    "rating": 4.4,
+    "stock": 9
+  },
+  {
+    "id": 109,
+    "name": "Netgear Orbi RBK863S",
+    "description": "Wi-Fi 6E, tri-band, 10Gbps, 2500 sq ft per satellite",
+    "price": 799,
+    "category": "networking",
+    "image": "https://placehold.co/400x400?text=Orbi+RBK863S",
+    "rating": 4.4,
+    "stock": 6
+  },
+  {
+    "id": 110,
+    "name": "Ubiquiti UniFi Dream Machine SE",
+    "description": "Wi-Fi 6, all-in-one router+switch, 2.5GbE uplink, IDS/IPS",
+    "price": 499,
+    "category": "networking",
+    "image": "https://placehold.co/400x400?text=UniFi+Dream+SE",
+    "rating": 4.6,
+    "stock": 4
+  },
+  {
+    "id": 111,
+    "name": "GL.iNet GL-MT6000",
+    "description": "Wi-Fi 6 travel router, OpenWrt, VPN support, 2.5GbE",
+    "price": 149,
+    "category": "networking",
+    "image": "https://placehold.co/400x400?text=GL-MT6000",
+    "rating": 4.5,
+    "stock": 14
+  },
+  {
+    "id": 112,
+    "name": "TP-Link TL-SG1024DE",
+    "description": "24-port Gigabit smart switch, QoS, VLAN, fanless",
+    "price": 129,
+    "category": "networking",
+    "image": "https://placehold.co/400x400?text=SG1024DE",
+    "rating": 4.4,
+    "stock": 11
+  },
+  {
+    "id": 113,
+    "name": "Synology RT6600ax",
+    "description": "Wi-Fi 6, tri-band, built-in VPN, SRM OS, SD-WAN",
+    "price": 299,
+    "category": "networking",
+    "image": "https://placehold.co/400x400?text=RT6600ax",
+    "rating": 4.5,
+    "stock": 7
+  },
+  {
+    "id": 114,
+    "name": "Samsung 990 Pro 2TB",
+    "description": "PCIe 4.0 NVMe SSD, 7450MB/s read, M.2 2280",
+    "price": 179,
+    "category": "storage",
+    "image": "https://placehold.co/400x400?text=990+Pro+2TB",
+    "rating": 4.8,
+    "stock": 20
+  },
+  {
+    "id": 115,
+    "name": "WD Black SN850X 1TB",
+    "description": "PCIe Gen4 NVMe, 7300MB/s, PS5 compatible, game mode",
+    "price": 99,
+    "category": "storage",
+    "image": "https://placehold.co/400x400?text=SN850X+1TB",
+    "rating": 4.7,
+    "stock": 25
+  },
+  {
+    "id": 116,
+    "name": "Seagate One Touch 5TB",
+    "description": "USB 3.0 portable HDD, automatic backup software, 3-year warranty",
+    "price": 99,
+    "category": "storage",
+    "image": "https://placehold.co/400x400?text=One+Touch+5TB",
+    "rating": 4.2,
+    "stock": 30
+  },
+  {
+    "id": 117,
+    "name": "SanDisk Extreme Pro 4TB",
+    "description": "USB 3.2 portable SSD, 2000MB/s, IP65, NVMe",
+    "price": 349,
+    "category": "storage",
+    "image": "https://placehold.co/400x400?text=Extreme+Pro+4TB",
+    "rating": 4.6,
+    "stock": 12
+  },
+  {
+    "id": 118,
+    "name": "Synology DS923+",
+    "description": "4-bay NAS, AMD Ryzen R1600, 4GB ECC RAM, SSD cache",
+    "price": 599,
+    "category": "storage",
+    "image": "https://placehold.co/400x400?text=DS923+",
+    "rating": 4.7,
+    "stock": 5
+  },
+  {
+    "id": 119,
+    "name": "WD Red Plus 8TB",
+    "description": "NAS optimized HDD, CMR, 5640 RPM, 3D NAND, 5-year warranty",
+    "price": 179,
+    "category": "storage",
+    "image": "https://placehold.co/400x400?text=WD+Red+8TB",
+    "rating": 4.5,
+    "stock": 15
+  },
+  {
+    "id": 120,
+    "name": "Crucial T700 2TB",
+    "description": "PCIe Gen5 NVMe, 12400MB/s read, heatsink version",
+    "price": 249,
+    "category": "storage",
+    "image": "https://placehold.co/400x400?text=Crucial+T700",
+    "rating": 4.6,
+    "stock": 10
+  },
+  {
+    "id": 121,
+    "name": "LaCie Rugged SSD Pro 1TB",
+    "description": "Thunderbolt 3, 2800MB/s, IP67, drop/crush resistant",
+    "price": 299,
+    "category": "storage",
+    "image": "https://placehold.co/400x400?text=Rugged+SSD+Pro",
+    "rating": 4.5,
+    "stock": 8
+  },
+  {
+    "id": 122,
+    "name": "LG C3 65\" OLED",
+    "description": "Evo OLED panel, 4K 120Hz, α9 Gen6 AI, Dolby Vision, G-Sync",
+    "price": 1799,
+    "category": "tv",
+    "image": "https://placehold.co/400x400?text=LG+C3+65",
+    "rating": 4.9,
+    "stock": 4
+  },
+  {
+    "id": 123,
+    "name": "Samsung S95C 55\" QD-OLED",
+    "description": "Neural Quantum 4K processor, 4K 144Hz, anti-glare",
+    "price": 1999,
+    "category": "tv",
+    "image": "https://placehold.co/400x400?text=S95C+55",
+    "rating": 4.8,
+    "stock": 3
+  },
+  {
+    "id": 124,
+    "name": "Sony A95L 65\" QD-OLED",
+    "description": "Bravia XR processor, acoustic surface audio+, 4K 120Hz",
+    "price": 2799,
+    "category": "tv",
+    "image": "https://placehold.co/400x400?text=Sony+A95L",
+    "rating": 4.9,
+    "stock": 2
+  },
+  {
+    "id": 125,
+    "name": "Hisense U8K 75\"",
+    "description": "Mini-LED ULED 4K, 2200-nit peak, 144Hz, Dolby Vision IQ",
+    "price": 1299,
+    "category": "tv",
+    "image": "https://placehold.co/400x400?text=Hisense+U8K",
+    "rating": 4.7,
+    "stock": 5
+  },
+  {
+    "id": 126,
+    "name": "TCL QM8 85\"",
+    "description": "4K Mini-LED, 5000-zone backlight, 144Hz, Google TV",
+    "price": 1799,
+    "category": "tv",
+    "image": "https://placehold.co/400x400?text=TCL+QM8+85",
+    "rating": 4.6,
+    "stock": 3
+  },
+  {
+    "id": 127,
+    "name": "Philips 55OLED908",
+    "description": "55\" OLED+, P5 AI, Ambilight 4, Bowers & Wilkins sound",
+    "price": 2199,
+    "category": "tv",
+    "image": "https://placehold.co/400x400?text=Philips+908",
+    "rating": 4.8,
+    "stock": 3
+  },
+  {
+    "id": 128,
+    "name": "Samsung The Frame 55\"",
+    "description": "QLED art mode, matte display, customizable bezels, 4K HDR",
+    "price": 1299,
+    "category": "tv",
+    "image": "https://placehold.co/400x400?text=The+Frame+55",
+    "rating": 4.5,
+    "stock": 7
+  },
+  {
+    "id": 129,
+    "name": "LG 86QNED90",
+    "description": "86\" QNED Mini LED, 4K 120Hz, Local Dimming Pro",
+    "price": 1999,
+    "category": "tv",
+    "image": "https://placehold.co/400x400?text=LG+86QNED90",
+    "rating": 4.5,
+    "stock": 3
+  },
+  {
+    "id": 130,
+    "name": "Epson EcoTank ET-4850",
+    "description": "Supertank inkjet, 2-year ink supply included, Wi-Fi, fax",
+    "price": 349,
+    "category": "printers",
+    "image": "https://placehold.co/400x400?text=ET-4850",
+    "rating": 4.5,
+    "stock": 10
+  },
+  {
+    "id": 131,
+    "name": "HP LaserJet Pro M404dn",
+    "description": "Monochrome laser, 40ppm, duplex, Ethernet, 250-sheet tray",
+    "price": 249,
+    "category": "printers",
+    "image": "https://placehold.co/400x400?text=LaserJet+M404",
+    "rating": 4.4,
+    "stock": 12
+  },
+  {
+    "id": 132,
+    "name": "Brother HL-L8360CDW",
+    "description": "Colour laser, 33ppm, duplex, wireless, mobile print",
+    "price": 349,
+    "category": "printers",
+    "image": "https://placehold.co/400x400?text=HL-L8360CDW",
+    "rating": 4.3,
+    "stock": 8
+  },
+  {
+    "id": 133,
+    "name": "Canon PIXMA TS9521C",
+    "description": "Wireless A3+ photo printer, 6-ink, Bluetooth, borderless",
+    "price": 199,
+    "category": "printers",
+    "image": "https://placehold.co/400x400?text=PIXMA+TS9521",
+    "rating": 4.2,
+    "stock": 11
+  },
+  {
+    "id": 134,
+    "name": "Epson SureColor P700",
+    "description": "17\" wide-format photo printer, 9-ink UltraChrome Pro",
+    "price": 799,
+    "category": "printers",
+    "image": "https://placehold.co/400x400?text=SureColor+P700",
+    "rating": 4.6,
+    "stock": 4
+  },
+  {
+    "id": 135,
+    "name": "AMD Ryzen 9 9950X",
+    "description": "16-core Zen 5, 5.7GHz boost, 64MB L3 cache, AM5 socket",
+    "price": 699,
+    "category": "components",
+    "image": "https://placehold.co/400x400?text=Ryzen+9+9950X",
+    "rating": 4.8,
+    "stock": 8
+  },
+  {
+    "id": 136,
+    "name": "Intel Core Ultra 9 285K",
+    "description": "24-core Arrow Lake, 5.7GHz, AI acceleration, LGA1851",
+    "price": 589,
+    "category": "components",
+    "image": "https://placehold.co/400x400?text=Core+Ultra+285K",
+    "rating": 4.6,
+    "stock": 10
+  },
+  {
+    "id": 137,
+    "name": "Nvidia GeForce RTX 4090",
+    "description": "Ada Lovelace, 24GB GDDR6X, DLSS 3, 16384 CUDA cores",
+    "price": 1599,
+    "category": "components",
+    "image": "https://placehold.co/400x400?text=RTX+4090",
+    "rating": 4.9,
+    "stock": 3
+  },
+  {
+    "id": 138,
+    "name": "AMD Radeon RX 7900 XTX",
+    "description": "24GB GDDR6, RDNA 3, 355W TDP, FSR 3 support",
+    "price": 999,
+    "category": "components",
+    "image": "https://placehold.co/400x400?text=RX+7900+XTX",
+    "rating": 4.7,
+    "stock": 5
+  },
+  {
+    "id": 139,
+    "name": "G.Skill Trident Z5 RGB 32GB",
+    "description": "DDR5-6400 CL32, Intel XMP 3.0, RGB, dual-channel kit",
+    "price": 149,
+    "category": "components",
+    "image": "https://placehold.co/400x400?text=Trident+Z5+32GB",
+    "rating": 4.7,
+    "stock": 18
+  },
+  {
+    "id": 140,
+    "name": "ASUS ROG STRIX Z790-E",
+    "description": "LGA1700, DDR5, PCIe 5.0, Thunderbolt 4, 10Gbps LAN",
+    "price": 499,
+    "category": "components",
+    "image": "https://placehold.co/400x400?text=Z790-E+Gaming",
+    "rating": 4.6,
+    "stock": 7
+  },
+  {
+    "id": 141,
+    "name": "be quiet! Dark Rock Pro 5",
+    "description": "250W TDP CPU cooler, dual 135mm fans, near-silent",
+    "price": 99,
+    "category": "components",
+    "image": "https://placehold.co/400x400?text=Dark+Rock+Pro+5",
+    "rating": 4.7,
+    "stock": 14
+  },
+  {
+    "id": 142,
+    "name": "Corsair RM1000x SHIFT",
+    "description": "1000W 80+ Gold PSU, modular, ATX 3.0, PCIe 5.0 cable",
+    "price": 199,
+    "category": "components",
+    "image": "https://placehold.co/400x400?text=RM1000x+SHIFT",
+    "rating": 4.8,
+    "stock": 10
+  },
+  {
+    "id": 143,
+    "name": "Fractal Design Define 7",
+    "description": "Mid-tower case, 2× 140mm fans, sound dampening, USB-C",
+    "price": 149,
+    "category": "components",
+    "image": "https://placehold.co/400x400?text=Define+7",
+    "rating": 4.6,
+    "stock": 9
+  },
+  {
+    "id": 144,
+    "name": "Meta Quest 3",
+    "description": "Mixed reality, Snapdragon XR2 Gen 2, 4K+ display, 64GB",
+    "price": 499,
+    "category": "wearables",
+    "image": "https://placehold.co/400x400?text=Meta+Quest+3",
+    "rating": 4.6,
+    "stock": 10
+  },
+  {
+    "id": 145,
+    "name": "Apple Vision Pro",
+    "description": "visionOS, M2+R1 chips, micro-OLED, EyeSight, 2h battery",
+    "price": 3499,
+    "category": "wearables",
+    "image": "https://placehold.co/400x400?text=Vision+Pro",
+    "rating": 4.4,
+    "stock": 3
+  },
+  {
+    "id": 146,
+    "name": "Ray-Ban Meta Smart Glasses",
+    "description": "Open-ear audio, 12MP camera, Meta AI, 4-6h battery",
+    "price": 299,
+    "category": "wearables",
+    "image": "https://placehold.co/400x400?text=Ray-Ban+Meta",
+    "rating": 4,
+    "stock": 14
+  },
+  {
+    "id": 147,
+    "name": "Garmin Vivosmart 5",
+    "description": "Slim fitness band, SpO2, stress tracking, 7-day battery",
+    "price": 149,
+    "category": "wearables",
+    "image": "https://placehold.co/400x400?text=Vivosmart+5",
+    "rating": 4.2,
+    "stock": 20
+  },
+  {
+    "id": 148,
+    "name": "Whoop 4.0",
+    "description": "Continuous strain & recovery tracking, 5-day battery, no screen",
+    "price": 239,
+    "category": "wearables",
+    "image": "https://placehold.co/400x400?text=Whoop+4.0",
+    "rating": 4.1,
+    "stock": 15
+  },
+  {
+    "id": 149,
+    "name": "Oura Ring Gen 3",
+    "description": "Sleep staging, HRV, period prediction, 7-day battery",
+    "price": 349,
+    "category": "wearables",
+    "image": "https://placehold.co/400x400?text=Oura+Ring+3",
+    "rating": 4.4,
+    "stock": 12
+  },
+  {
+    "id": 150,
+    "name": "Samsung Galaxy Ring",
+    "description": "Sleep & activity tracking, titanium, IP68, 7-day battery",
+    "price": 399,
+    "category": "wearables",
+    "image": "https://placehold.co/400x400?text=Galaxy+Ring",
+    "rating": 4.3,
+    "stock": 10
+  },
+  {
+    "id": 151,
+    "name": "Kindle Scribe",
+    "description": "10.2\" e-ink, 300ppi, included pen, audiobooks",
+    "price": 339,
+    "category": "ereaders",
+    "image": "https://placehold.co/400x400?text=Kindle+Scribe",
+    "rating": 4.3,
+    "stock": 14
+  },
+  {
+    "id": 152,
+    "name": "Kobo Elipsa 2E",
+    "description": "10.3\" e-ink, Kobo Stylus 2, 32GB, ComfortLight PRO",
+    "price": 399,
+    "category": "ereaders",
+    "image": "https://placehold.co/400x400?text=Kobo+Elipsa+2E",
+    "rating": 4.4,
+    "stock": 10
+  },
+  {
+    "id": 153,
+    "name": "Kindle Paperwhite 11th",
+    "description": "6.8\" 300ppi, IPX8, adjustable warm light, 10-week battery",
+    "price": 139,
+    "category": "ereaders",
+    "image": "https://placehold.co/400x400?text=Paperwhite+11",
+    "rating": 4.7,
+    "stock": 22
+  },
+  {
+    "id": 154,
+    "name": "Kobo Libra Colour",
+    "description": "7\" E Ink Kaleido 3 colour screen, stylus support, IPX8",
+    "price": 219,
+    "category": "ereaders",
+    "image": "https://placehold.co/400x400?text=Libra+Colour",
+    "rating": 4.3,
+    "stock": 16
+  },
+  {
+    "id": 155,
+    "name": "Onyx Boox Note Air3 C",
+    "description": "10.3\" colour e-ink, Android 12, stylus, Google Play",
+    "price": 499,
+    "category": "ereaders",
+    "image": "https://placehold.co/400x400?text=Note+Air3+C",
+    "rating": 4.2,
+    "stock": 8
+  },
+  {
+    "id": 156,
+    "name": "DJI Air 3",
+    "description": "Dual main cameras, 46-min flight, 20km video transmission",
+    "price": 1099,
+    "category": "drones",
+    "image": "https://placehold.co/400x400?text=DJI+Air+3",
+    "rating": 4.8,
+    "stock": 6
+  },
+  {
+    "id": 157,
+    "name": "DJI Mini 4 Pro",
+    "description": "Under 250g, 4K/60fps, obstacle avoidance, 34-min flight",
+    "price": 759,
+    "category": "drones",
+    "image": "https://placehold.co/400x400?text=Mini+4+Pro",
+    "rating": 4.7,
+    "stock": 9
+  },
+  {
+    "id": 158,
+    "name": "Autel EVO Nano+",
+    "description": "Under 249g, 4K HDR, 3-way obstacle sensing, 28-min flight",
+    "price": 649,
+    "category": "drones",
+    "image": "https://placehold.co/400x400?text=EVO+Nano+",
+    "rating": 4.3,
+    "stock": 7
+  },
+  {
+    "id": 159,
+    "name": "DJI Mavic 3 Classic",
+    "description": "4/3 CMOS Hasselblad camera, 5.1K video, 43-min flight",
+    "price": 1499,
+    "category": "drones",
+    "image": "https://placehold.co/400x400?text=Mavic+3+Classic",
+    "rating": 4.8,
+    "stock": 4
+  },
+  {
+    "id": 160,
+    "name": "Skydio 2+",
+    "description": "Fully autonomous, 360° obstacle avoidance, 27-min flight",
+    "price": 999,
+    "category": "drones",
+    "image": "https://placehold.co/400x400?text=Skydio+2+",
+    "rating": 4.4,
+    "stock": 5
+  },
+  {
+    "id": 161,
+    "name": "Anker 737 GaN Charger",
+    "description": "120W, 3-port GaN, charges laptop + 2 devices simultaneously",
+    "price": 79,
+    "category": "accessories",
+    "image": "https://placehold.co/400x400?text=Anker+737",
+    "rating": 4.7,
+    "stock": 30
+  },
+  {
+    "id": 162,
+    "name": "Belkin MagSafe 3-in-1",
+    "description": "Charges iPhone + AirPods + Apple Watch simultaneously",
+    "price": 149,
+    "category": "accessories",
+    "image": "https://placehold.co/400x400?text=Belkin+3in1",
+    "rating": 4.5,
+    "stock": 18
+  },
+  {
+    "id": 163,
+    "name": "CalDigit TS4 Thunderbolt 4 Dock",
+    "description": "18 ports, 98W laptop charging, 2× Thunderbolt 4, 3× USB-A",
+    "price": 349,
+    "category": "accessories",
+    "image": "https://placehold.co/400x400?text=CalDigit+TS4",
+    "rating": 4.8,
+    "stock": 10
+  },
+  {
+    "id": 164,
+    "name": "Satechi USB-C Slim Hub",
+    "description": "7-in-1, USB-A 3.0 ×3, HDMI 4K, card reader, USB-C PD",
+    "price": 59,
+    "category": "accessories",
+    "image": "https://placehold.co/400x400?text=Satechi+Hub",
+    "rating": 4.4,
+    "stock": 25
+  },
+  {
+    "id": 165,
+    "name": "Mophie Powerstation PD 20000",
+    "description": "20000mAh, 30W USB-C PD, wireless 7.5W, 2× USB-A",
+    "price": 89,
+    "category": "accessories",
+    "image": "https://placehold.co/400x400?text=Powerstation+PD",
+    "rating": 4.5,
+    "stock": 20
+  },
+  {
+    "id": 166,
+    "name": "Peak Design Travel Tripod",
+    "description": "Carbon fiber, 534g, Arca Swiss, packs to 39cm",
+    "price": 599,
+    "category": "accessories",
+    "image": "https://placehold.co/400x400?text=Peak+Tripod",
+    "rating": 4.8,
+    "stock": 7
+  },
+  {
+    "id": 167,
+    "name": "Moment Case iPhone 15 Pro",
+    "description": "MagSafe, M-Force magnets, lens mounts, drop protection",
+    "price": 49,
+    "category": "accessories",
+    "image": "https://placehold.co/400x400?text=Moment+Case",
+    "rating": 4.6,
+    "stock": 22
+  },
+  {
+    "id": 168,
+    "name": "Elgato Stream Deck MK.2",
+    "description": "15 LCD keys, customizable actions, plug-and-play USB",
+    "price": 149,
+    "category": "accessories",
+    "image": "https://placehold.co/400x400?text=Stream+Deck+MK2",
+    "rating": 4.7,
+    "stock": 14
+  },
+  {
+    "id": 169,
+    "name": "Logitech MX Keys S",
+    "description": "Wireless keyboard, backlighting, Smart Actions, USB-C",
+    "price": 109,
+    "category": "accessories",
+    "image": "https://placehold.co/400x400?text=MX+Keys+S",
+    "rating": 4.6,
+    "stock": 16
+  },
+  {
+    "id": 170,
+    "name": "Logitech MX Master 3S",
+    "description": "8K DPI sensor, MagSpeed wheel, USB-C, 70-day battery",
+    "price": 99,
+    "category": "accessories",
+    "image": "https://placehold.co/400x400?text=MX+Master+3S",
+    "rating": 4.8,
+    "stock": 20
+  },
+  {
+    "id": 171,
+    "name": "Apple Magic Keyboard with Touch ID",
+    "description": "Wireless, rechargeable, numeric keypad, scissor mechanism",
+    "price": 129,
+    "category": "accessories",
+    "image": "https://placehold.co/400x400?text=Magic+Keyboard",
+    "rating": 4.5,
+    "stock": 18
+  },
+  {
+    "id": 172,
+    "name": "Keychron Q1 Pro",
+    "description": "Wireless 75% mechanical, Gateron G Pro, hot-swappable, RGB",
+    "price": 199,
+    "category": "accessories",
+    "image": "https://placehold.co/400x400?text=Keychron+Q1+Pro",
+    "rating": 4.7,
+    "stock": 10
+  },
+  {
+    "id": 173,
+    "name": "Epson EF-21",
+    "description": "Smart laser projector, Android TV, 1080p, 1000-lumen, compact",
+    "price": 799,
+    "category": "projectors",
+    "image": "https://placehold.co/400x400?text=Epson+EF-21",
+    "rating": 4.4,
+    "stock": 6
+  },
+  {
+    "id": 174,
+    "name": "Optoma GT1090HDR",
+    "description": "Short-throw 1080p, 4200 lumens, gaming mode 8ms, HDR",
+    "price": 999,
+    "category": "projectors",
+    "image": "https://placehold.co/400x400?text=GT1090HDR",
+    "rating": 4.5,
+    "stock": 5
+  },
+  {
+    "id": 175,
+    "name": "LG CineBeam HU715QW",
+    "description": "Ultra-short throw 4K laser, 2500 lumens, webOS, up to 120\"",
+    "price": 2999,
+    "category": "projectors",
+    "image": "https://placehold.co/400x400?text=CineBeam+HU715",
+    "rating": 4.6,
+    "stock": 3
+  },
+  {
+    "id": 176,
+    "name": "Anker Nebula Capsule 3",
+    "description": "Portable, Android TV, HD, 300 ANSI lumens, Wi-Fi 6",
+    "price": 499,
+    "category": "projectors",
+    "image": "https://placehold.co/400x400?text=Nebula+Capsule3",
+    "rating": 4.3,
+    "stock": 8
+  },
+  {
+    "id": 177,
+    "name": "Xiaomi Laser Cinema 2",
+    "description": "150\" 4K UST, 1400 ANSI lumens, 3D Dolby Vision",
+    "price": 3499,
+    "category": "projectors",
+    "image": "https://placehold.co/400x400?text=Laser+Cinema+2",
+    "rating": 4.7,
+    "stock": 2
+  },
+  {
+    "id": 178,
+    "name": "Shure SM7B",
+    "description": "Dynamic broadcast microphone, cardioid, switchable frequency response",
+    "price": 399,
+    "category": "recording",
+    "image": "https://placehold.co/400x400?text=SM7B",
+    "rating": 4.9,
+    "stock": 12
+  },
+  {
+    "id": 179,
+    "name": "Blue Yeti X",
+    "description": "USB condenser, multi-pattern, LED metering, Blue VO!CE",
+    "price": 169,
+    "category": "recording",
+    "image": "https://placehold.co/400x400?text=Yeti+X",
+    "rating": 4.6,
+    "stock": 18
+  },
+  {
+    "id": 180,
+    "name": "Rode NT1 5th Gen",
+    "description": "Studio condenser, ultra-low noise, USB-C + XLR, 32-bit float",
+    "price": 269,
+    "category": "recording",
+    "image": "https://placehold.co/400x400?text=Rode+NT1+5th",
+    "rating": 4.8,
+    "stock": 9
+  },
+  {
+    "id": 181,
+    "name": "Elgato Wave 3",
+    "description": "USB-C condenser, capacitive mute, Clipguard, 96kHz",
+    "price": 149,
+    "category": "recording",
+    "image": "https://placehold.co/400x400?text=Elgato+Wave3",
+    "rating": 4.5,
+    "stock": 15
+  },
+  {
+    "id": 182,
+    "name": "Focusrite Scarlett 2i2 4th Gen",
+    "description": "USB audio interface, 2-in/2-out, Air mode, 24-bit/192kHz",
+    "price": 179,
+    "category": "recording",
+    "image": "https://placehold.co/400x400?text=Scarlett+2i2",
+    "rating": 4.8,
+    "stock": 14
+  },
+  {
+    "id": 183,
+    "name": "Sony ECM-W3",
+    "description": "Wireless microphone, multi-interface shoe, 60m range",
+    "price": 349,
+    "category": "recording",
+    "image": "https://placehold.co/400x400?text=ECM-W3",
+    "rating": 4.5,
+    "stock": 8
+  },
+  {
+    "id": 184,
+    "name": "DJI Mic 2",
+    "description": "Wireless lavalier, 250m range, 32-bit float, built-in storage",
+    "price": 329,
+    "category": "recording",
+    "image": "https://placehold.co/400x400?text=DJI+Mic+2",
+    "rating": 4.7,
+    "stock": 10
+  },
+  {
+    "id": 185,
+    "name": "Segway Ninebot Max G30LP",
+    "description": "Electric scooter, 40km range, 350W motor, IP54, 10\" pneumatic",
+    "price": 699,
+    "category": "emobility",
+    "image": "https://placehold.co/400x400?text=Ninebot+Max",
+    "rating": 4.5,
+    "stock": 7
+  },
+  {
+    "id": 186,
+    "name": "DJI Avinox eMTB Drive",
+    "description": "E-bike motor system, 105Nm torque, auto assist, app tuning",
+    "price": 1299,
+    "category": "emobility",
+    "image": "https://placehold.co/400x400?text=DJI+Avinox",
+    "rating": 4.6,
+    "stock": 4
+  },
+  {
+    "id": 187,
+    "name": "Cowboy 4 ST",
+    "description": "Electric city bike, 250W, 100km range, phone holder, IP54",
+    "price": 2299,
+    "category": "emobility",
+    "image": "https://placehold.co/400x400?text=Cowboy+4+ST",
+    "rating": 4.4,
+    "stock": 3
+  },
+  {
+    "id": 188,
+    "name": "Onewheel GT S",
+    "description": "Electric self-balancing board, 32km range, 32kph top speed",
+    "price": 1699,
+    "category": "emobility",
+    "image": "https://placehold.co/400x400?text=Onewheel+GT+S",
+    "rating": 4.3,
+    "stock": 5
+  },
+  {
+    "id": 189,
+    "name": "Apollo City Pro 2023",
+    "description": "Electric scooter, 45km/h, 65km range, hydraulic brakes, turn signals",
+    "price": 1299,
+    "category": "emobility",
+    "image": "https://placehold.co/400x400?text=Apollo+City+Pro",
+    "rating": 4.5,
+    "stock": 6
+  },
+  {
+    "id": 190,
+    "name": "Peloton Bike+",
+    "description": "Auto-follow resistance, 23.8\" rotating screen, Apple GymKit",
+    "price": 2495,
+    "category": "fitness",
+    "image": "https://placehold.co/400x400?text=Peloton+Bike+",
+    "rating": 4.6,
+    "stock": 3
+  },
+  {
+    "id": 191,
+    "name": "NordicTrack Vault",
+    "description": "Smart mirror + home gym, iFit, AI personal training, foldable",
+    "price": 2999,
+    "category": "fitness",
+    "image": "https://placehold.co/400x400?text=NordicTrack+Vault",
+    "rating": 4.3,
+    "stock": 2
+  },
+  {
+    "id": 192,
+    "name": "Theragun PRO Plus",
+    "description": "Percussive therapy, PEMF, heat, vibration, 60-min battery",
+    "price": 599,
+    "category": "fitness",
+    "image": "https://placehold.co/400x400?text=Theragun+PRO+",
+    "rating": 4.5,
+    "stock": 8
+  },
+  {
+    "id": 193,
+    "name": "Garmin Edge 1040 Solar",
+    "description": "GPS bike computer, solar charging, ClimbPro, 100-hr battery",
+    "price": 649,
+    "category": "fitness",
+    "image": "https://placehold.co/400x400?text=Edge+1040+Solar",
+    "rating": 4.7,
+    "stock": 6
+  },
+  {
+    "id": 194,
+    "name": "Wahoo KICKR Smart Trainer",
+    "description": "Direct drive, 2200W resistance, ERG mode, Wi-Fi",
+    "price": 1199,
+    "category": "fitness",
+    "image": "https://placehold.co/400x400?text=KICKR+Trainer",
+    "rating": 4.7,
+    "stock": 5
+  },
+  {
+    "id": 195,
+    "name": "WHOOP 4.0 + Suit Bundle",
+    "description": "Wearable + compression garment, any-wear sensing, recovery tracking",
+    "price": 399,
+    "category": "fitness",
+    "image": "https://placehold.co/400x400?text=WHOOP+Suit",
+    "rating": 4.1,
+    "stock": 10
+  },
+  {
+    "id": 196,
+    "name": "Logitech MX Brio 4K Webcam",
+    "description": "4K 30fps, AI face framing, privacy shutter, USB-C",
+    "price": 199,
+    "category": "office",
+    "image": "https://placehold.co/400x400?text=MX+Brio+4K",
+    "rating": 4.6,
+    "stock": 14
+  },
+  {
+    "id": 197,
+    "name": "Poly Studio R30",
+    "description": "USB video bar, 120° FOV, AI noise reduction, 4K",
+    "price": 299,
+    "category": "office",
+    "image": "https://placehold.co/400x400?text=Poly+Studio+R30",
+    "rating": 4.4,
+    "stock": 8
+  },
+  {
+    "id": 198,
+    "name": "Jabra Speak2 75",
+    "description": "Wireless speakerphone, 8-mic array, USB-C + Bluetooth, 32h",
+    "price": 249,
+    "category": "office",
+    "image": "https://placehold.co/400x400?text=Speak2+75",
+    "rating": 4.5,
+    "stock": 11
+  },
+  {
+    "id": 199,
+    "name": "Arlo Essential Indoor Camera 2K",
+    "description": "2K QHD, privacy shield, 2-way audio, AI alerts",
+    "price": 99,
+    "category": "office",
+    "image": "https://placehold.co/400x400?text=Arlo+Indoor+2K",
+    "rating": 4.2,
+    "stock": 20
+  },
+  {
+    "id": 200,
+    "name": "Ergotron LX Desk Mount",
+    "description": "Monitor arm, ≤34\" 11.3kg, VESA, full-motion cable management",
+    "price": 159,
+    "category": "office",
+    "image": "https://placehold.co/400x400?text=Ergotron+LX",
+    "rating": 4.7,
+    "stock": 16
+  },
+  {
+    "id": 201,
+    "name": "Brother PT-E550WNIVP",
+    "description": "Industrial label printer, Wi-Fi, laminated labels up to 24mm",
+    "price": 199,
+    "category": "office",
+    "image": "https://placehold.co/400x400?text=PT-E550",
+    "rating": 4.3,
+    "stock": 9
+  },
+  {
+    "id": 202,
+    "name": "Rocketbook Core Smart Notebook",
+    "description": "Reusable notebook, cloud upload, 8 cloud services, 40-page",
+    "price": 36,
+    "category": "office",
+    "image": "https://placehold.co/400x400?text=Rocketbook+Core",
+    "rating": 4.2,
+    "stock": 40
+  },
+  {
+    "id": 203,
+    "name": "Logitech Spotlight Presenter",
+    "description": "Presentation remote, 30m range, digital pointer, USB-C",
+    "price": 99,
+    "category": "office",
+    "image": "https://placehold.co/400x400?text=Spotlight+Remote",
+    "rating": 4.5,
+    "stock": 18
+  },
+  {
+    "id": 204,
+    "name": "Amazon Echo Studio",
+    "description": "3D audio, Dolby Atmos, built-in Zigbee hub, spatial audio processing",
+    "price": 199,
+    "category": "smartspeakers",
+    "image": "https://placehold.co/400x400?text=Echo+Studio",
+    "rating": 4.4,
+    "stock": 14
+  },
+  {
+    "id": 205,
+    "name": "Apple HomePod 2",
+    "description": "S7 chip, spatial audio, Siri, Thread, smart home hub",
+    "price": 299,
+    "category": "smartspeakers",
+    "image": "https://placehold.co/400x400?text=HomePod+2",
+    "rating": 4.5,
+    "stock": 10
+  },
+  {
+    "id": 206,
+    "name": "Sonos Move 2",
+    "description": "Stereo sound, Dolby Atmos, Wi-Fi + Bluetooth, 24h battery",
+    "price": 449,
+    "category": "smartspeakers",
+    "image": "https://placehold.co/400x400?text=Sonos+Move+2",
+    "rating": 4.6,
+    "stock": 8
+  },
+  {
+    "id": 207,
+    "name": "Google Nest Audio",
+    "description": "Powerful bass, Google Assistant, multi-room compatible, fabric design",
+    "price": 99,
+    "category": "smartspeakers",
+    "image": "https://placehold.co/400x400?text=Nest+Audio",
+    "rating": 4.4,
+    "stock": 20
+  },
+  {
+    "id": 208,
+    "name": "Harman Kardon Citation 500",
+    "description": "Airplay 2, Chromecast, Google Assistant, premium sound, 2.1ch",
+    "price": 799,
+    "category": "smartspeakers",
+    "image": "https://placehold.co/400x400?text=Citation+500",
+    "rating": 4.5,
+    "stock": 5
+  },
+  {
+    "id": 209,
+    "name": "Ecovacs Deebot X2 Omni",
+    "description": "AI obstacle avoidance, mop + vacuum, self-empty + self-clean dock",
+    "price": 1499,
+    "category": "robots",
+    "image": "https://placehold.co/400x400?text=Deebot+X2+Omni",
+    "rating": 4.6,
+    "stock": 5
+  },
+  {
+    "id": 210,
+    "name": "Roborock S8 MaxV Ultra",
+    "description": "Reactive AI 3.0, 10000Pa suction, sonic mopping, empty+refill dock",
+    "price": 1799,
+    "category": "robots",
+    "image": "https://placehold.co/400x400?text=S8+MaxV+Ultra",
+    "rating": 4.7,
+    "stock": 4
+  },
+  {
+    "id": 211,
+    "name": "iRobot Roomba Combo j9+",
+    "description": "Retractable mop, PrecisionVision navigation, SmartScrub, auto-fill",
+    "price": 1099,
+    "category": "robots",
+    "image": "https://placehold.co/400x400?text=Roomba+j9+",
+    "rating": 4.5,
+    "stock": 6
+  },
+  {
+    "id": 212,
+    "name": "Narwal Freo X Ultra",
+    "description": "8200Pa vacuum + self-cleaning mop, Zero-Tangle brush, AI zoning",
+    "price": 999,
+    "category": "robots",
+    "image": "https://placehold.co/400x400?text=Freo+X+Ultra",
+    "rating": 4.4,
+    "stock": 7
+  },
+  {
+    "id": 213,
+    "name": "Dreame Bot L20 Ultra",
+    "description": "7000Pa, rotating mop, auto-empty/mop-wash/dry, 3D obstacle avoidance",
+    "price": 1299,
+    "category": "robots",
+    "image": "https://placehold.co/400x400?text=L20+Ultra",
+    "rating": 4.6,
+    "stock": 5
+  },
+  {
+    "id": 214,
+    "name": "Apple TV 4K (3rd Gen)",
+    "description": "A15 Bionic, 4K HDR, Dolby Atmos, Thread, Siri Remote",
+    "price": 129,
+    "category": "streaming",
+    "image": "https://placehold.co/400x400?text=Apple+TV+4K",
+    "rating": 4.7,
+    "stock": 18
+  },
+  {
+    "id": 215,
+    "name": "NVIDIA Shield TV Pro",
+    "description": "AI upscaling 4K, Dolby Vision/Atmos, 3GB RAM, Plex server",
+    "price": 199,
+    "category": "streaming",
+    "image": "https://placehold.co/400x400?text=Shield+TV+Pro",
+    "rating": 4.8,
+    "stock": 12
+  },
+  {
+    "id": 216,
+    "name": "Fire TV Stick 4K Max (2nd Gen)",
+    "description": "Wi-Fi 6E, Ambient Experience, Alexa voice remote, 4K",
+    "price": 59,
+    "category": "streaming",
+    "image": "https://placehold.co/400x400?text=Fire+TV+4K+Max",
+    "rating": 4.5,
+    "stock": 35
+  },
+  {
+    "id": 217,
+    "name": "Google Chromecast with Google TV 4K",
+    "description": "4K HDR, Google TV, Dolby Vision, voice remote, Wi-Fi",
+    "price": 49,
+    "category": "streaming",
+    "image": "https://placehold.co/400x400?text=Chromecast+4K",
+    "rating": 4.4,
+    "stock": 40
+  },
+  {
+    "id": 218,
+    "name": "Roku Ultra 2022",
+    "description": "4K HDR, Dolby Vision, private listening, lost remote finder",
+    "price": 99,
+    "category": "streaming",
+    "image": "https://placehold.co/400x400?text=Roku+Ultra",
+    "rating": 4.5,
+    "stock": 22
+  },
+  {
+    "id": 219,
+    "name": "EcoFlow Delta 2 Max",
+    "description": "2048Wh, 2400W AC, LFP battery, solar input, 5-year warranty",
+    "price": 1699,
+    "category": "power",
+    "image": "https://placehold.co/400x400?text=Delta+2+Max",
+    "rating": 4.7,
+    "stock": 6
+  },
+  {
+    "id": 220,
+    "name": "Bluetti AC200L",
+    "description": "2048Wh, 2400W, LFP, expandable to 8192Wh, solar + grid + car",
+    "price": 1799,
+    "category": "power",
+    "image": "https://placehold.co/400x400?text=Bluetti+AC200L",
+    "rating": 4.6,
+    "stock": 5
+  },
+  {
+    "id": 221,
+    "name": "Goal Zero Yeti 1500X",
+    "description": "1516Wh, 2000W AC, MPPT solar input, Wi-Fi app control",
+    "price": 1999,
+    "category": "power",
+    "image": "https://placehold.co/400x400?text=Yeti+1500X",
+    "rating": 4.5,
+    "stock": 4
+  },
+  {
+    "id": 222,
+    "name": "Jackery Explorer 1000 Pro",
+    "description": "1002Wh, 1000W AC, 3× MPPT solar input, 1.8h fast charge",
+    "price": 1099,
+    "category": "power",
+    "image": "https://placehold.co/400x400?text=Explorer+1000",
+    "rating": 4.6,
+    "stock": 7
+  },
+  {
+    "id": 223,
+    "name": "EcoFlow River 2 Pro",
+    "description": "768Wh, 800W AC, LFP, 70-min full charge, X-Boost 1600W",
+    "price": 599,
+    "category": "power",
+    "image": "https://placehold.co/400x400?text=River+2+Pro",
+    "rating": 4.5,
+    "stock": 10
+  },
+  {
+    "id": 224,
+    "name": "NuPhy Air75 V2",
+    "description": "Wireless 75%, Gateron Low Profile, gasket mount, RGB, tri-mode",
+    "price": 159,
+    "category": "keyboards",
+    "image": "https://placehold.co/400x400?text=NuPhy+Air75",
+    "rating": 4.5,
+    "stock": 13
+  },
+  {
+    "id": 225,
+    "name": "GMMK Pro 75%",
+    "description": "Hot-swappable, aluminum, gasket mount, rotary encoder, RGB",
+    "price": 169,
+    "category": "keyboards",
+    "image": "https://placehold.co/400x400?text=GMMK+Pro",
+    "rating": 4.4,
+    "stock": 10
+  },
+  {
+    "id": 226,
+    "name": "Ducky One 3 TKL",
+    "description": "Hot-swap, Cherry MX, doubleshot PBT, QUACK mechanics",
+    "price": 109,
+    "category": "keyboards",
+    "image": "https://placehold.co/400x400?text=Ducky+One+3",
+    "rating": 4.6,
+    "stock": 15
+  },
+  {
+    "id": 227,
+    "name": "Wooting 60HE",
+    "description": "Analog Hall effect switches, rapid trigger, USB-C, 60%",
+    "price": 199,
+    "category": "keyboards",
+    "image": "https://placehold.co/400x400?text=Wooting+60HE",
+    "rating": 4.8,
+    "stock": 8
+  },
+  {
+    "id": 228,
+    "name": "Drop CTRL High Profile",
+    "description": "TKL, aluminum, per-key RGB, Halo True switches, USB-C",
+    "price": 249,
+    "category": "keyboards",
+    "image": "https://placehold.co/400x400?text=Drop+CTRL",
+    "rating": 4.5,
+    "stock": 9
+  },
+  {
+    "id": 229,
+    "name": "Logitech G Pro X Superlight 2",
+    "description": "HERO 2 sensor 32K DPI, 60g, wireless, 95h battery",
+    "price": 159,
+    "category": "mice",
+    "image": "https://placehold.co/400x400?text=Superlight+2",
+    "rating": 4.8,
+    "stock": 16
+  },
+  {
+    "id": 230,
+    "name": "Razer Viper V3 Pro",
+    "description": "Focus Pro 35K sensor, 54g, HyperSpeed wireless, 95h",
+    "price": 159,
+    "category": "mice",
+    "image": "https://placehold.co/400x400?text=Viper+V3+Pro",
+    "rating": 4.7,
+    "stock": 14
+  },
+  {
+    "id": 231,
+    "name": "Pulsar X2 V2",
+    "description": "Pixart 3395 sensor, 51g, symmetrical, USB-C polling 8000Hz",
+    "price": 99,
+    "category": "mice",
+    "image": "https://placehold.co/400x400?text=Pulsar+X2+V2",
+    "rating": 4.6,
+    "stock": 18
+  },
+  {
+    "id": 232,
+    "name": "Logitech MX Anywhere 3S",
+    "description": "MagSpeed scroll, 8K DPI, USB-C, multi-device, compact",
+    "price": 79,
+    "category": "mice",
+    "image": "https://placehold.co/400x400?text=MX+Anywhere+3S",
+    "rating": 4.5,
+    "stock": 22
+  },
+  {
+    "id": 233,
+    "name": "Glorious Model O 2",
+    "description": "Pixart 3395, 55g, 8000Hz polling, USB-C, honeycomb shell",
+    "price": 79,
+    "category": "mice",
+    "image": "https://placehold.co/400x400?text=Model+O+2",
+    "rating": 4.4,
+    "stock": 20
+  },
+  {
+    "id": 234,
+    "name": "Wacom Cintiq Pro 27",
+    "description": "27\" 4K OLED display tablet, Pro Pen 3, tilt & rotation support",
+    "price": 3499,
+    "category": "drawingtablets",
+    "image": "https://placehold.co/400x400?text=Cintiq+Pro+27",
+    "rating": 4.7,
+    "stock": 2
+  },
+  {
+    "id": 235,
+    "name": "Huion Kamvas Pro 19",
+    "description": "19\" 2.5K QHD, 145% sRGB, tilt, 8192 pressure, laminated",
+    "price": 599,
+    "category": "drawingtablets",
+    "image": "https://placehold.co/400x400?text=Kamvas+Pro19",
+    "rating": 4.5,
+    "stock": 6
+  },
+  {
+    "id": 236,
+    "name": "XP-Pen Artist Pro 24 Gen 2",
+    "description": "23.8\" 4K IPS, X3 Pro Smart Chip stylus, 16384 levels",
+    "price": 899,
+    "category": "drawingtablets",
+    "image": "https://placehold.co/400x400?text=Artist+Pro+24",
+    "rating": 4.4,
+    "stock": 5
+  },
+  {
+    "id": 237,
+    "name": "Wacom Intuos Pro Large",
+    "description": "Wireless pen tablet, multi-touch, Pro Pen 2, A4 active area",
+    "price": 499,
+    "category": "drawingtablets",
+    "image": "https://placehold.co/400x400?text=Intuos+Pro+L",
+    "rating": 4.6,
+    "stock": 8
+  },
+  {
+    "id": 238,
+    "name": "Bambu Lab X1 Carbon",
+    "description": "CoreXY, 16-color AMS, 600mm/s, multi-material, LIDAR",
+    "price": 1449,
+    "category": "3dprinting",
+    "image": "https://placehold.co/400x400?text=X1+Carbon",
+    "rating": 4.8,
+    "stock": 5
+  },
+  {
+    "id": 239,
+    "name": "Prusa MK4",
+    "description": "FDM, auto bed leveling, Input Shaper, 0.4mm nozzle, silent",
+    "price": 799,
+    "category": "3dprinting",
+    "image": "https://placehold.co/400x400?text=Prusa+MK4",
+    "rating": 4.7,
+    "stock": 7
+  },
+  {
+    "id": 240,
+    "name": "Elegoo Saturn 3 Ultra",
+    "description": "14\" 12K mono LCD resin printer, 150×163×300mm build volume",
+    "price": 549,
+    "category": "3dprinting",
+    "image": "https://placehold.co/400x400?text=Saturn+3+Ultra",
+    "rating": 4.6,
+    "stock": 6
+  },
+  {
+    "id": 241,
+    "name": "Bambu Lab P1S",
+    "description": "Enclosed CoreXY, 500mm/s, AMS support, ABS/ASA/PA capable",
+    "price": 949,
+    "category": "3dprinting",
+    "image": "https://placehold.co/400x400?text=Bambu+P1S",
+    "rating": 4.7,
+    "stock": 5
+  },
+  {
+    "id": 242,
+    "name": "AnkerMake M5C",
+    "description": "FDM, 500mm/s, auto-leveling, 7×7 grid, easy assembly",
+    "price": 349,
+    "category": "3dprinting",
+    "image": "https://placehold.co/400x400?text=AnkerMake+M5C",
+    "rating": 4.3,
+    "stock": 10
+  },
+  {
+    "id": 243,
+    "name": "YubiKey 5C NFC",
+    "description": "FIDO2/WebAuthn, OTP, OpenPGP, USB-C + NFC, hardware key",
+    "price": 55,
+    "category": "security",
+    "image": "https://placehold.co/400x400?text=YubiKey+5C",
+    "rating": 4.8,
+    "stock": 25
+  },
+  {
+    "id": 244,
+    "name": "Bitdefender Box 3",
+    "description": "Home network cybersecurity, IoT protection, VPN, parental controls",
+    "price": 199,
+    "category": "security",
+    "image": "https://placehold.co/400x400?text=Bitdefender+Box",
+    "rating": 4.3,
+    "stock": 10
+  },
+  {
+    "id": 245,
+    "name": "Schlage Encode Plus",
+    "description": "Smart lock, Apple Home Key, built-in Wi-Fi, auto-lock",
+    "price": 279,
+    "category": "security",
+    "image": "https://placehold.co/400x400?text=Schlage+Encode+",
+    "rating": 4.4,
+    "stock": 12
+  },
+  {
+    "id": 246,
+    "name": "Eufy Security S330 Video Doorbell",
+    "description": "4K HDR, dual cameras, local storage, no monthly fee",
+    "price": 199,
+    "category": "security",
+    "image": "https://placehold.co/400x400?text=Eufy+S330",
+    "rating": 4.5,
+    "stock": 14
+  },
+  {
+    "id": 247,
+    "name": "SimpliSafe Core Kit",
+    "description": "8-piece system, professional monitoring, fast protect tech",
+    "price": 299,
+    "category": "security",
+    "image": "https://placehold.co/400x400?text=SimpliSafe+Core",
+    "rating": 4.3,
+    "stock": 8
+  },
+  {
+    "id": 248,
+    "name": "Amazon Echo Dot Kids",
+    "description": "Alexa voice assistant, parental controls, 2-year worry-free guarantee",
+    "price": 59,
+    "category": "kidstech",
+    "image": "https://placehold.co/400x400?text=Echo+Dot+Kids",
+    "rating": 4.3,
+    "stock": 25
+  },
+  {
+    "id": 249,
+    "name": "LeapPad Ultimate",
+    "description": "Kid-proof tablet, 7\" display, educational apps, Wi-Fi, bumper case",
+    "price": 99,
+    "category": "kidstech",
+    "image": "https://placehold.co/400x400?text=LeapPad+Ultimate",
+    "rating": 4,
+    "stock": 18
+  },
+  {
+    "id": 250,
+    "name": "Osmo Genius Starter Kit",
+    "description": "iPad learning system, 5 games, math + spelling + creativity",
+    "price": 89,
+    "category": "kidstech",
+    "image": "https://placehold.co/400x400?text=Osmo+Genius",
+    "rating": 4.5,
+    "stock": 14
+  },
+  {
+    "id": 251,
+    "name": "Sphero Mini Activity Kit",
+    "description": "App-enabled robotic ball, coding activities, mini-golf accessories",
+    "price": 59,
+    "category": "kidstech",
+    "image": "https://placehold.co/400x400?text=Sphero+Mini",
+    "rating": 4.3,
+    "stock": 20
+  },
+  {
+    "id": 252,
+    "name": "Lego Mindstorms Robot Inventor",
+    "description": "949 pieces, 5 robot models, Scratch/Python, STEM learning",
+    "price": 359,
+    "category": "kidstech",
+    "image": "https://placehold.co/400x400?text=Mindstorms+RI",
+    "rating": 4.6,
+    "stock": 7
+  },
+  {
+    "id": 253,
+    "name": "EcoFlow 400W Solar Panel",
+    "description": "Bifacial monocrystalline, 23% efficiency, IP68, foldable frame",
+    "price": 499,
+    "category": "greentech",
+    "image": "https://placehold.co/400x400?text=EcoFlow+400W",
+    "rating": 4.6,
+    "stock": 8
+  },
+  {
+    "id": 254,
+    "name": "Goal Zero Nomad 200",
+    "description": "Foldable solar panel, 200W, kickstand, daisy-chainable",
+    "price": 399,
+    "category": "greentech",
+    "image": "https://placehold.co/400x400?text=Nomad+200",
+    "rating": 4.5,
+    "stock": 6
+  },
+  {
+    "id": 255,
+    "name": "Bluetti PV350 Solar Panel",
+    "description": "350W monocrystalline, 23.4% efficiency, IP65, universal connector",
+    "price": 499,
+    "category": "greentech",
+    "image": "https://placehold.co/400x400?text=Bluetti+PV350",
+    "rating": 4.5,
+    "stock": 5
+  },
+  {
+    "id": 256,
+    "name": "Anker SOLIX F3800",
+    "description": "3840Wh LFP power station + whole-home backup, 6000W output",
+    "price": 3499,
+    "category": "greentech",
+    "image": "https://placehold.co/400x400?text=SOLIX+F3800",
+    "rating": 4.7,
+    "stock": 3
+  },
+  {
+    "id": 257,
+    "name": "Peak Design Mobile Case MagSafe",
+    "description": "Slim case, MagSafe, 100% recycled materials, SlimLink",
+    "price": 49,
+    "category": "phoneaccessories",
+    "image": "https://placehold.co/400x400?text=Peak+Mobile+Case",
+    "rating": 4.5,
+    "stock": 28
+  },
+  {
+    "id": 258,
+    "name": "Anker 633 MagGo Charging Station",
+    "description": "5-in-1, MagSafe 15W, Qi2, 67W USB-C hub, detachable base",
+    "price": 79,
+    "category": "phoneaccessories",
+    "image": "https://placehold.co/400x400?text=Anker+633+MagGo",
+    "rating": 4.4,
+    "stock": 20
+  },
+  {
+    "id": 259,
+    "name": "Spigen Ultra Hybrid S MagFit",
+    "description": "Kickstand, MagSafe, crystal-clear back, raised edges",
+    "price": 29,
+    "category": "phoneaccessories",
+    "image": "https://placehold.co/400x400?text=Ultra+Hybrid+S",
+    "rating": 4.4,
+    "stock": 35
+  },
+  {
+    "id": 260,
+    "name": "OtterBox Defender Pro XT MagSafe",
+    "description": "Max drop protection, MagSafe, built-in holster, antimicrobial",
+    "price": 69,
+    "category": "phoneaccessories",
+    "image": "https://placehold.co/400x400?text=Defender+XT",
+    "rating": 4.3,
+    "stock": 22
+  },
+  {
+    "id": 261,
+    "name": "PopSockets MagSafe PopGrip",
+    "description": "MagSafe compatible, swappable top, adjustable grip & stand",
+    "price": 25,
+    "category": "phoneaccessories",
+    "image": "https://placehold.co/400x400?text=PopSockets+Mag",
+    "rating": 4.2,
+    "stock": 50
+  },
+  {
+    "id": 262,
+    "name": "Twelve South Curve Flex",
+    "description": "Adjustable height laptop stand, ventilated, foldable, aluminum",
+    "price": 79,
+    "category": "laptopaccessories",
+    "image": "https://placehold.co/400x400?text=Curve+Flex",
+    "rating": 4.5,
+    "stock": 16
+  },
+  {
+    "id": 263,
+    "name": "Moft Z Invisible Laptop Stand",
+    "description": "Adhesive foldable stand, 4 viewing angles, ultra-thin 3mm",
+    "price": 39,
+    "category": "laptopaccessories",
+    "image": "https://placehold.co/400x400?text=Moft+Z+Stand",
+    "rating": 4.3,
+    "stock": 25
+  },
+  {
+    "id": 264,
+    "name": "Razer Laptop Cooling Stand V3",
+    "description": "USB hub, 3-fan, adjustable height, quiet, 17\" support",
+    "price": 79,
+    "category": "laptopaccessories",
+    "image": "https://placehold.co/400x400?text=Cooling+Stand+V3",
+    "rating": 4.3,
+    "stock": 14
+  },
+  {
+    "id": 265,
+    "name": "Kensington SD5780T Thunderbolt 4 Dock",
+    "description": "17 ports, 90W PD, dual 4K or single 8K, USB4 40Gbps",
+    "price": 299,
+    "category": "laptopaccessories",
+    "image": "https://placehold.co/400x400?text=SD5780T",
+    "rating": 4.6,
+    "stock": 8
+  },
+  {
+    "id": 266,
+    "name": "OWC Thunderbolt 4 Dock",
+    "description": "11-port, 96W charging, 40Gbps, dual 6K display support",
+    "price": 249,
+    "category": "laptopaccessories",
+    "image": "https://placehold.co/400x400?text=OWC+TB4+Dock",
+    "rating": 4.5,
+    "stock": 7
+  },
+  {
+    "id": 267,
+    "name": "iPhone SE (3rd Gen)",
+    "description": "A15 Bionic, 4.7\" Retina HD, Touch ID, 5G",
+    "price": 429,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=iPhone+SE+3",
+    "rating": 4.3,
+    "stock": 20
+  },
+  {
+    "id": 268,
+    "name": "Samsung Galaxy Z Fold 6",
+    "description": "7.6\" foldable AMOLED, Snapdragon 8 Gen 3, 50MP, S Pen",
+    "price": 1799,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=Z+Fold+6",
+    "rating": 4.6,
+    "stock": 6
+  },
+  {
+    "id": 269,
+    "name": "Samsung Galaxy Z Flip 6",
+    "description": "3.4\" cover display, Snapdragon 8 Gen 3, 50MP, clamshell",
+    "price": 1099,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=Z+Flip+6",
+    "rating": 4.5,
+    "stock": 9
+  },
+  {
+    "id": 270,
+    "name": "Google Pixel 8a",
+    "description": "Tensor G3, 64MP, 4492mAh, 120Hz OLED, 7 years updates",
+    "price": 499,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=Pixel+8a",
+    "rating": 4.5,
+    "stock": 16
+  },
+  {
+    "id": 271,
+    "name": "Fairphone 5",
+    "description": "Modular smartphone, 8 replaceable parts, 5G, Qualcomm QCM6490",
+    "price": 699,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=Fairphone+5",
+    "rating": 4,
+    "stock": 11
+  },
+  {
+    "id": 272,
+    "name": "Motorola Moto G85",
+    "description": "Snapdragon 6s Gen 3, 50MP OIS, 5000mAh, 33W TurboPower",
+    "price": 299,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=Moto+G85",
+    "rating": 4,
+    "stock": 28
+  },
+  {
+    "id": 273,
+    "name": "Nokia XR21",
+    "description": "IP68/IP69K, MIL-SPEC 810H, Snapdragon 695, 3-year Android",
+    "price": 599,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=Nokia+XR21",
+    "rating": 4.1,
+    "stock": 13
+  },
+  {
+    "id": 274,
+    "name": "Blackview BV9300 Pro",
+    "description": "Rugged phone, 100W, laser rangefinder, thermal camera, 15080mAh",
+    "price": 449,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=BV9300+Pro",
+    "rating": 3.9,
+    "stock": 9
+  },
+  {
+    "id": 275,
+    "name": "AGM G2 Guardian",
+    "description": "Thermal night vision, 50MP, 6200mAh, Dimensity 900, IP68",
+    "price": 699,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=AGM+G2+Guardian",
+    "rating": 4,
+    "stock": 6
+  },
+  {
+    "id": 276,
+    "name": "Bowers & Wilkins Px8",
+    "description": "Over-ear ANC, aptX Adaptive, 30h, real carbon fiber arm",
+    "price": 699,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=BW+Px8",
+    "rating": 4.7,
+    "stock": 7
+  },
+  {
+    "id": 277,
+    "name": "Focal Bathys",
+    "description": "Bluetooth ANC headphones, 30h, USB-C DAC mode, audiophile grade",
+    "price": 799,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=Focal+Bathys",
+    "rating": 4.6,
+    "stock": 5
+  },
+  {
+    "id": 278,
+    "name": "Nothing Ear (2)",
+    "description": "Hi-res audio, 6-mic ANC, LHDC 5.0, 36h total battery",
+    "price": 149,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=Nothing+Ear2",
+    "rating": 4.3,
+    "stock": 22
+  },
+  {
+    "id": 279,
+    "name": "UE Hyperboom",
+    "description": "Portable speaker, 100W output, 24h battery, outdoor IP67",
+    "price": 399,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=UE+Hyperboom",
+    "rating": 4.5,
+    "stock": 10
+  },
+  {
+    "id": 280,
+    "name": "Klipsch The Fives",
+    "description": "Powered bookshelf speakers, HDMI ARC, phono, Bluetooth",
+    "price": 799,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=Klipsch+Fives",
+    "rating": 4.6,
+    "stock": 6
+  },
+  {
+    "id": 281,
+    "name": "Audioengine A2+ Wireless",
+    "description": "Powered desktop speakers, aptX, 24-bit DAC, 60W",
+    "price": 299,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=A2+Wireless",
+    "rating": 4.5,
+    "stock": 9
+  },
+  {
+    "id": 282,
+    "name": "HIFIMAN Sundara",
+    "description": "Planar magnetic headphones, 94dB, 37Ω, stealth magnets",
+    "price": 349,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=HIFIMAN+Sundara",
+    "rating": 4.6,
+    "stock": 8
+  },
+  {
+    "id": 283,
+    "name": "Technics EAH-AZ80",
+    "description": "True wireless earphones, multipoint 3-device, LDAC, ANC",
+    "price": 299,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=EAH-AZ80",
+    "rating": 4.6,
+    "stock": 12
+  },
+  {
+    "id": 284,
+    "name": "Framework Laptop 16",
+    "description": "Modular, AMD Ryzen 9 7940HX, RX 7700S GPU module, upgradeable",
+    "price": 1799,
+    "category": "laptops",
+    "image": "https://placehold.co/400x400?text=Framework+16",
+    "rating": 4.5,
+    "stock": 6
+  },
+  {
+    "id": 285,
+    "name": "Lenovo Legion Pro 7i",
+    "description": "Core i9-14900HX, RTX 4090, 32GB DDR5, QHD 240Hz",
+    "price": 3299,
+    "category": "laptops",
+    "image": "https://placehold.co/400x400?text=Legion+Pro+7i",
+    "rating": 4.7,
+    "stock": 3
+  },
+  {
+    "id": 286,
+    "name": "HP OmniBook Ultra 14",
+    "description": "AMD Ryzen AI 9 HX 375, OLED 2.8K, 36h battery, 1.3kg",
+    "price": 1899,
+    "category": "laptops",
+    "image": "https://placehold.co/400x400?text=OmniBook+Ultra",
+    "rating": 4.5,
+    "stock": 5
+  },
+  {
+    "id": 287,
+    "name": "Toshiba Portégé X30L-K",
+    "description": "Intel Core Ultra 7, 13.3\" FHD, 1kg ultralight, LTE",
+    "price": 1699,
+    "category": "laptops",
+    "image": "https://placehold.co/400x400?text=Portege+X30L",
+    "rating": 4.4,
+    "stock": 6
+  },
+  {
+    "id": 288,
+    "name": "Chuwi MiniBook X 10.8\"",
+    "description": "Intel N100, 12GB, 512GB, 10.8\" IPS, 2-in-1, fanless",
+    "price": 329,
+    "category": "laptops",
+    "image": "https://placehold.co/400x400?text=MiniBook+X",
+    "rating": 3.8,
+    "stock": 14
+  },
+  {
+    "id": 289,
+    "name": "PlayStation Portal",
+    "description": "Remote player for PS5, 8\" LCD 1080p 60fps, DualSense controls",
+    "price": 199,
+    "category": "gaming",
+    "image": "https://placehold.co/400x400?text=PS+Portal",
+    "rating": 3.9,
+    "stock": 15
+  },
+  {
+    "id": 290,
+    "name": "Logitech G Cloud",
+    "description": "Cloud gaming handheld, 7\" 1080p 60fps, Wi-Fi, 12h battery",
+    "price": 349,
+    "category": "gaming",
+    "image": "https://placehold.co/400x400?text=G+Cloud",
+    "rating": 3.8,
+    "stock": 10
+  },
+  {
+    "id": 291,
+    "name": "Thrustmaster T248X",
+    "description": "Racing wheel, magnetic paddle shifters, dynamic force feedback",
+    "price": 299,
+    "category": "gaming",
+    "image": "https://placehold.co/400x400?text=T248X",
+    "rating": 4.4,
+    "stock": 8
+  },
+  {
+    "id": 292,
+    "name": "HyperX Cloud Alpha Wireless",
+    "description": "300h battery, DTS Headphone X, noise-cancellation mic",
+    "price": 199,
+    "category": "gaming",
+    "image": "https://placehold.co/400x400?text=Cloud+Alpha+W",
+    "rating": 4.5,
+    "stock": 12
+  },
+  {
+    "id": 293,
+    "name": "Hori Split Pad Pro",
+    "description": "Ergonomic Switch controllers, turbo, assignable buttons",
+    "price": 49,
+    "category": "gaming",
+    "image": "https://placehold.co/400x400?text=Split+Pad+Pro",
+    "rating": 4.4,
+    "stock": 22
+  },
+  {
+    "id": 294,
+    "name": "Logitech G435 Lightspeed",
+    "description": "Wireless gaming headset, Bluetooth dual, 18h, eco materials",
+    "price": 79,
+    "category": "gaming",
+    "image": "https://placehold.co/400x400?text=G435",
+    "rating": 4.2,
+    "stock": 18
+  },
+  {
+    "id": 295,
+    "name": "Fnatic Streak65 LP TKL",
+    "description": "Low-profile mechanical, Kailh Choc v2, TKL, USB-C, RGB",
+    "price": 99,
+    "category": "gaming",
+    "image": "https://placehold.co/400x400?text=Streak65+LP",
+    "rating": 4.3,
+    "stock": 13
+  },
+  {
+    "id": 296,
+    "name": "Samsung Galaxy Tab S8 FE",
+    "description": "10.4\" TFT, Snapdragon 778G, 4500mAh, S Pen, 128GB",
+    "price": 449,
+    "category": "tablets",
+    "image": "https://placehold.co/400x400?text=Tab+S8+FE",
+    "rating": 4.2,
+    "stock": 12
+  },
+  {
+    "id": 297,
+    "name": "Amazon Echo Show 8 (3rd Gen)",
+    "description": "8\" display, spatial audio, home monitoring, hands-free Alexa",
+    "price": 149,
+    "category": "smarthome",
+    "image": "https://placehold.co/400x400?text=Echo+Show+8+3",
+    "rating": 4.4,
+    "stock": 20
+  },
+  {
+    "id": 298,
+    "name": "Lenovo Smart Clock 2",
+    "description": "4\" IPS, Google Assistant, USB-A charging, ambient mode",
+    "price": 79,
+    "category": "smarthome",
+    "image": "https://placehold.co/400x400?text=Smart+Clock+2",
+    "rating": 4.1,
+    "stock": 25
+  },
+  {
+    "id": 299,
+    "name": "Anker 737 Power Bank",
+    "description": "24000mAh, 140W output, digital display, charges MacBook Pro",
+    "price": 129,
+    "category": "accessories",
+    "image": "https://placehold.co/400x400?text=Anker+737+Bank",
+    "rating": 4.7,
+    "stock": 18
+  },
+  {
+    "id": 300,
+    "name": "Baseus Blade 20000mAh",
+    "description": "100W, card-thin design, dual USB-C, digital meter",
+    "price": 89,
+    "category": "accessories",
+    "image": "https://placehold.co/400x400?text=Baseus+Blade",
+    "rating": 4.5,
+    "stock": 22
+  },
+  {
+    "id": 301,
+    "name": "Zendure SuperTank Pro",
+    "description": "26800mAh, 100W PD3.0, X-Charge, 4-port, OLED display",
+    "price": 99,
+    "category": "accessories",
+    "image": "https://placehold.co/400x400?text=SuperTank+Pro",
+    "rating": 4.5,
+    "stock": 15
+  },
+  {
+    "id": 302,
+    "name": "Mophie Powerstation PD XL",
+    "description": "10000mAh, 20W USB-C, Qi wireless, travel-friendly",
+    "price": 59,
+    "category": "accessories",
+    "image": "https://placehold.co/400x400?text=Powerstation+XL",
+    "rating": 4.3,
+    "stock": 28
+  },
+  {
+    "id": 303,
+    "name": "Raspberry Pi 5 8GB",
+    "description": "Quad-core Cortex-A76, 8GB RAM, PCIe 2.0, dual 4K HDMI",
+    "price": 80,
+    "category": "makers",
+    "image": "https://placehold.co/400x400?text=Pi+5+8GB",
+    "rating": 4.8,
+    "stock": 20
+  },
+  {
+    "id": 304,
+    "name": "Arduino Mega 2560 Rev3",
+    "description": "54 digital I/O, 16 analog inputs, 256KB flash, USB-B",
+    "price": 45,
+    "category": "makers",
+    "image": "https://placehold.co/400x400?text=Arduino+Mega",
+    "rating": 4.7,
+    "stock": 30
+  },
+  {
+    "id": 305,
+    "name": "Seeed XIAO ESP32S3 Sense",
+    "description": "Embedded camera + microphone, Wi-Fi + BLE, OV2640, TinyML",
+    "price": 20,
+    "category": "makers",
+    "image": "https://placehold.co/400x400?text=XIAO+ESP32S3",
+    "rating": 4.5,
+    "stock": 40
+  },
+  {
+    "id": 306,
+    "name": "Pimoroni Inventor 2040 W",
+    "description": "RP2040, Wi-Fi, motor + servo drivers, ADC, Qwiic, MicroPython",
+    "price": 35,
+    "category": "makers",
+    "image": "https://placehold.co/400x400?text=Inventor+2040W",
+    "rating": 4.4,
+    "stock": 22
+  },
+  {
+    "id": 307,
+    "name": "Flipper Zero",
+    "description": "Multi-tool for geeks: RFID, NFC, IR, sub-GHz, GPIO, BadUSB",
+    "price": 169,
+    "category": "makers",
+    "image": "https://placehold.co/400x400?text=Flipper+Zero",
+    "rating": 4.5,
+    "stock": 15
+  },
+  {
+    "id": 308,
+    "name": "Dyson V15 Detect Absolute",
+    "description": "Laser dust detection, LCD screen, 60-min runtime, HEPA filter",
+    "price": 749,
+    "category": "appliances",
+    "image": "https://placehold.co/400x400?text=Dyson+V15",
+    "rating": 4.7,
+    "stock": 8
+  },
+  {
+    "id": 309,
+    "name": "iRobot Roomba j7+",
+    "description": "AI obstacle avoidance, P&P technology, clean base, mapping",
+    "price": 799,
+    "category": "appliances",
+    "image": "https://placehold.co/400x400?text=Roomba+j7+",
+    "rating": 4.5,
+    "stock": 6
+  },
+  {
+    "id": 310,
+    "name": "Instant Pot Pro Crisp 11-in-1",
+    "description": "Air fry + pressure cook, 8Qt, sous vide, dehydrate, WiFi",
+    "price": 199,
+    "category": "appliances",
+    "image": "https://placehold.co/400x400?text=Instant+Pot+Pro",
+    "rating": 4.4,
+    "stock": 12
+  },
+  {
+    "id": 311,
+    "name": "Anova Precision Oven",
+    "description": "Steam + convection + sous vide, WiFi, app, 48L capacity",
+    "price": 799,
+    "category": "appliances",
+    "image": "https://placehold.co/400x400?text=Anova+Oven",
+    "rating": 4.5,
+    "stock": 5
+  },
+  {
+    "id": 312,
+    "name": "Withings Body Scan Smart Scale",
+    "description": "Nerve activity, heart rate, muscle & fat %, segmental body composition",
+    "price": 299,
+    "category": "appliances",
+    "image": "https://placehold.co/400x400?text=Body+Scan",
+    "rating": 4.4,
+    "stock": 10
+  },
+  {
+    "id": 313,
+    "name": "Breville Barista Express Impress",
+    "description": "Built-in grinder, assisted tamping, 9-bar pump, steam wand",
+    "price": 799,
+    "category": "appliances",
+    "image": "https://placehold.co/400x400?text=Barista+Impress",
+    "rating": 4.7,
+    "stock": 7
+  },
+  {
+    "id": 314,
+    "name": "Philips 3200 LatteGo",
+    "description": "Fully automatic espresso, 5 coffee varieties, LatteGo milk system",
+    "price": 999,
+    "category": "appliances",
+    "image": "https://placehold.co/400x400?text=LatteGo+3200",
+    "rating": 4.6,
+    "stock": 6
+  },
+  {
+    "id": 315,
+    "name": "Garmin DriveSmart 76",
+    "description": "7\" GPS navigator, live traffic, Bluetooth, Amazon Alexa built-in",
+    "price": 249,
+    "category": "cartech",
+    "image": "https://placehold.co/400x400?text=DriveSmart+76",
+    "rating": 4.4,
+    "stock": 12
+  },
+  {
+    "id": 316,
+    "name": "Nextbase 622GW Dash Cam",
+    "description": "4K, what3words, image stabilization, Amazon Alexa, Wi-Fi",
+    "price": 299,
+    "category": "cartech",
+    "image": "https://placehold.co/400x400?text=622GW",
+    "rating": 4.5,
+    "stock": 10
+  },
+  {
+    "id": 317,
+    "name": "Vantrue E3 Pro Dash Cam",
+    "description": "4K + 2K dual camera, StarVis 2, 5GHz Wi-Fi, GPS, parking mode",
+    "price": 249,
+    "category": "cartech",
+    "image": "https://placehold.co/400x400?text=Vantrue+E3+Pro",
+    "rating": 4.5,
+    "stock": 9
+  },
+  {
+    "id": 318,
+    "name": "Kenwood DMX958XR",
+    "description": "10.1\" Apple CarPlay/Android Auto, wireless, DAB+, HDMI",
+    "price": 699,
+    "category": "cartech",
+    "image": "https://placehold.co/400x400?text=DMX958XR",
+    "rating": 4.3,
+    "stock": 7
+  },
+  {
+    "id": 319,
+    "name": "Anker Roav VIVA Pro",
+    "description": "Car charger + Alexa, dual USB 24W, noise reduction mic",
+    "price": 49,
+    "category": "cartech",
+    "image": "https://placehold.co/400x400?text=Roav+VIVA+Pro",
+    "rating": 4,
+    "stock": 30
+  },
+  {
+    "id": 320,
+    "name": "Viofo A139 Pro 3-Ch",
+    "description": "4K front + 2K interior + 2K rear, Sony Starvis 2, GPS",
+    "price": 349,
+    "category": "cartech",
+    "image": "https://placehold.co/400x400?text=A139+Pro+3Ch",
+    "rating": 4.6,
+    "stock": 8
+  },
+  {
+    "id": 321,
+    "name": "Thinkware U3000",
+    "description": "4K front + 4K rear, ADAS, built-in radar, parking mode, cloud",
+    "price": 599,
+    "category": "cartech",
+    "image": "https://placehold.co/400x400?text=Thinkware+U3000",
+    "rating": 4.5,
+    "stock": 5
+  },
+  {
+    "id": 322,
+    "name": "Remarkable 2",
+    "description": "E-paper tablet, paper-feel writing, distraction-free, cloud sync",
+    "price": 449,
+    "category": "ereaders",
+    "image": "https://placehold.co/400x400?text=Remarkable+2",
+    "rating": 4.4,
+    "stock": 10
+  },
+  {
+    "id": 323,
+    "name": "Logitech Crayon for iPad",
+    "description": "Pixel-precise stylus, tilt, no Bluetooth pairing, USB-C",
+    "price": 69,
+    "category": "accessories",
+    "image": "https://placehold.co/400x400?text=Logitech+Crayon",
+    "rating": 4.4,
+    "stock": 24
+  },
+  {
+    "id": 324,
+    "name": "Apple Pencil Pro",
+    "description": "Pixel-perfect drawing, hover, squeeze, find my, iPad Pro/Air M4",
+    "price": 129,
+    "category": "accessories",
+    "image": "https://placehold.co/400x400?text=Apple+Pencil+Pro",
+    "rating": 4.7,
+    "stock": 18
+  },
+  {
+    "id": 325,
+    "name": "Elgato 4K60 Pro MK.2",
+    "description": "PCIe capture card, 4K 60fps HDR, VRR, ultra-low latency",
+    "price": 249,
+    "category": "gaming",
+    "image": "https://placehold.co/400x400?text=4K60+Pro+MK2",
+    "rating": 4.6,
+    "stock": 7
+  },
+  {
+    "id": 326,
+    "name": "Nacon Revolution 5 Pro",
+    "description": "PS5/PC, hall effect sticks, adjustable weights, Bluetooth",
+    "price": 199,
+    "category": "gaming",
+    "image": "https://placehold.co/400x400?text=Revolution+5+Pro",
+    "rating": 4.4,
+    "stock": 9
+  },
+  {
+    "id": 327,
+    "name": "Astro A50 X",
+    "description": "Wireless headset, 37h battery, Dolby Atmos, dual-system hub",
+    "price": 329,
+    "category": "gaming",
+    "image": "https://placehold.co/400x400?text=A50+X",
+    "rating": 4.5,
+    "stock": 8
+  },
+  {
+    "id": 328,
+    "name": "LG UltraGear 27\" 4K OLED",
+    "description": "27\" 4K OLED, 240Hz, 0.03ms, G-Sync + FreeSync, HDR10",
+    "price": 799,
+    "category": "monitors",
+    "image": "https://placehold.co/400x400?text=LG+27+4K+OLED",
+    "rating": 4.8,
+    "stock": 5
+  },
+  {
+    "id": 329,
+    "name": "Polar H10 Heart Rate Sensor",
+    "description": "ECG chest strap, ANT+ + Bluetooth, swim proof, 400h battery",
+    "price": 89,
+    "category": "fitness",
+    "image": "https://placehold.co/400x400?text=Polar+H10",
+    "rating": 4.7,
+    "stock": 20
+  },
+  {
+    "id": 330,
+    "name": "Coros Pace 3",
+    "description": "GPS running watch, 38h full GPS, dual-frequency, 30g",
+    "price": 249,
+    "category": "smartwatches",
+    "image": "https://placehold.co/400x400?text=Coros+Pace+3",
+    "rating": 4.6,
+    "stock": 12
+  },
+  {
+    "id": 331,
+    "name": "Stryd Power Meter",
+    "description": "Running power meter, wind detection, form metrics, ANT+",
+    "price": 219,
+    "category": "fitness",
+    "image": "https://placehold.co/400x400?text=Stryd+Power",
+    "rating": 4.5,
+    "stock": 14
+  },
+  {
+    "id": 332,
+    "name": "Garmin Rally RS200",
+    "description": "Dual-sided cycling power meter pedals, Shimano SPD-SL",
+    "price": 999,
+    "category": "fitness",
+    "image": "https://placehold.co/400x400?text=Rally+RS200",
+    "rating": 4.6,
+    "stock": 5
+  },
+  {
+    "id": 333,
+    "name": "BenQ TK860i",
+    "description": "4K DLP, 3300 lumens, Android TV, 16ms gaming mode",
+    "price": 1299,
+    "category": "projectors",
+    "image": "https://placehold.co/400x400?text=TK860i",
+    "rating": 4.4,
+    "stock": 4
+  },
+  {
+    "id": 334,
+    "name": "Yaber Pico Projector Y1",
+    "description": "Pocket projector, 1080p, Android TV, Wi-Fi 6, 3h battery",
+    "price": 279,
+    "category": "projectors",
+    "image": "https://placehold.co/400x400?text=Yaber+Y1",
+    "rating": 4,
+    "stock": 14
+  },
+  {
+    "id": 335,
+    "name": "Synology DS1522+",
+    "description": "5-bay NAS, AMD Ryzen R1600, 8GB ECC, dual 2.5GbE, expandable",
+    "price": 799,
+    "category": "storage",
+    "image": "https://placehold.co/400x400?text=DS1522+",
+    "rating": 4.7,
+    "stock": 4
+  },
+  {
+    "id": 336,
+    "name": "QNAP TS-464",
+    "description": "4-bay NAS, Intel Celeron N5105, 8GB, 2.5GbE ×2, PCIe",
+    "price": 599,
+    "category": "storage",
+    "image": "https://placehold.co/400x400?text=QNAP+TS-464",
+    "rating": 4.5,
+    "stock": 5
+  },
+  {
+    "id": 337,
+    "name": "TerraMaster F2-423",
+    "description": "2-bay NAS, Intel N5105, 8GB, 2.5GbE ×2, SSD cache slot",
+    "price": 349,
+    "category": "storage",
+    "image": "https://placehold.co/400x400?text=F2-423",
+    "rating": 4.4,
+    "stock": 7
+  },
+  {
+    "id": 338,
+    "name": "micro:bit V2",
+    "description": "Educational microcontroller, Bluetooth, speaker, mic, sensors",
+    "price": 19,
+    "category": "kidstech",
+    "image": "https://placehold.co/400x400?text=microbit+V2",
+    "rating": 4.6,
+    "stock": 40
+  },
+  {
+    "id": 339,
+    "name": "Kano PC Kit",
+    "description": "Build your own Windows 11 PC, coding apps, 11.6\" touchscreen",
+    "price": 299,
+    "category": "kidstech",
+    "image": "https://placehold.co/400x400?text=Kano+PC+Kit",
+    "rating": 4.1,
+    "stock": 10
+  },
+  {
+    "id": 340,
+    "name": "Lego Boost Creative Toolbox",
+    "description": "847 pieces, move hub, 5 models, Scratch-based app, coding",
+    "price": 179,
+    "category": "kidstech",
+    "image": "https://placehold.co/400x400?text=Lego+Boost",
+    "rating": 4.4,
+    "stock": 12
+  },
+  {
+    "id": 341,
+    "name": "Aqara U100 Smart Lock",
+    "description": "Fingerprint, passcode, NFC, Apple Home Key, auto-lock",
+    "price": 199,
+    "category": "security",
+    "image": "https://placehold.co/400x400?text=Aqara+U100",
+    "rating": 4.5,
+    "stock": 14
+  },
+  {
+    "id": 342,
+    "name": "Level Lock+ Connect",
+    "description": "Invisible smart lock, Apple Home Key, Wi-Fi, works with existing deadbolt",
+    "price": 329,
+    "category": "security",
+    "image": "https://placehold.co/400x400?text=Level+Lock+",
+    "rating": 4.3,
+    "stock": 9
+  },
+  {
+    "id": 343,
+    "name": "Logitech Circle View Doorbell",
+    "description": "HomeKit Secure Video, 1080p HDR, color night vision, two-way talk",
+    "price": 199,
+    "category": "security",
+    "image": "https://placehold.co/400x400?text=Circle+View+DB",
+    "rating": 4.3,
+    "stock": 11
+  },
+  {
+    "id": 344,
+    "name": "Sigma 18-50mm f/2.8 DC DN",
+    "description": "APS-C zoom, fast f/2.8, lightweight 290g, Sony E/Fujifilm X",
+    "price": 589,
+    "category": "cameras",
+    "image": "https://placehold.co/400x400?text=Sigma+18-50",
+    "rating": 4.7,
+    "stock": 8
+  },
+  {
+    "id": 345,
+    "name": "Tamron 17-28mm f/2.8 Di III RXD",
+    "description": "Full-frame wide zoom, 420g, weather resistant, Sony FE",
+    "price": 749,
+    "category": "cameras",
+    "image": "https://placehold.co/400x400?text=Tamron+17-28",
+    "rating": 4.7,
+    "stock": 7
+  },
+  {
+    "id": 346,
+    "name": "Laowa 10mm f/2 Zero-D MFT",
+    "description": "Ultra-wide, zero distortion, manual focus, MFT/APS-C",
+    "price": 499,
+    "category": "cameras",
+    "image": "https://placehold.co/400x400?text=Laowa+10mm",
+    "rating": 4.4,
+    "stock": 6
+  },
+  {
+    "id": 347,
+    "name": "Godox V1 Pro Round Flash",
+    "description": "Round head speedlight, 2.4G wireless X system, Li-ion",
+    "price": 249,
+    "category": "cameras",
+    "image": "https://placehold.co/400x400?text=Godox+V1+Pro",
+    "rating": 4.6,
+    "stock": 10
+  },
+  {
+    "id": 348,
+    "name": "DJI RS 4 Gimbal",
+    "description": "OLED display, 4.5kg payload, auto-tuning, BT focus wheel",
+    "price": 329,
+    "category": "cameras",
+    "image": "https://placehold.co/400x400?text=DJI+RS+4",
+    "rating": 4.7,
+    "stock": 9
+  },
+  {
+    "id": 349,
+    "name": "Mac mini M4",
+    "description": "M4 chip, 16GB RAM, 256GB SSD, Thunderbolt 4, Wi-Fi 6E",
+    "price": 599,
+    "category": "laptops",
+    "image": "https://placehold.co/400x400?text=Mac+mini+M4",
+    "rating": 4.8,
+    "stock": 10
+  },
+  {
+    "id": 350,
+    "name": "Beelink EQ12",
+    "description": "Intel N100, 16GB, 500GB NVMe, dual HDMI 4K, fanless option",
+    "price": 199,
+    "category": "laptops",
+    "image": "https://placehold.co/400x400?text=Beelink+EQ12",
+    "rating": 4.3,
+    "stock": 18
+  },
+  {
+    "id": 351,
+    "name": "Intel NUC 13 Pro",
+    "description": "Core i7-1360P, 2× DDR4, Thunderbolt 4, 2.5GbE, Wi-Fi 6E",
+    "price": 599,
+    "category": "laptops",
+    "image": "https://placehold.co/400x400?text=NUC+13+Pro",
+    "rating": 4.5,
+    "stock": 8
+  },
+  {
+    "id": 352,
+    "name": "Minisforum UM780 XTX",
+    "description": "AMD 7840HS, 32GB, 1TB, USB4, OCuLink eGPU port",
+    "price": 499,
+    "category": "laptops",
+    "image": "https://placehold.co/400x400?text=UM780+XTX",
+    "rating": 4.6,
+    "stock": 7
+  },
+  {
+    "id": 353,
+    "name": "Ugreen Nexode 300W GaN",
+    "description": "4-port GaN charger, 2× USB-C 140W, 2× USB-A, PPS",
+    "price": 149,
+    "category": "accessories",
+    "image": "https://placehold.co/400x400?text=Nexode+300W",
+    "rating": 4.6,
+    "stock": 15
+  },
+  {
+    "id": 354,
+    "name": "Anker USB-C to USB-C 240W Cable",
+    "description": "2m braided, 240W, 40Gbps USB4, 8K display, MFi certified",
+    "price": 29,
+    "category": "accessories",
+    "image": "https://placehold.co/400x400?text=Anker+240W+Cable",
+    "rating": 4.7,
+    "stock": 40
+  },
+  {
+    "id": 355,
+    "name": "Nomad Sport Band Apple Watch",
+    "description": "FKM rubber, stainless steel hardware, sweat resistant",
+    "price": 49,
+    "category": "accessories",
+    "image": "https://placehold.co/400x400?text=Nomad+Sport+Band",
+    "rating": 4.4,
+    "stock": 28
+  },
+  {
+    "id": 356,
+    "name": "Apple Magic Keyboard with Touch ID & Num Pad",
+    "description": "Full size, Touch ID, numeric keypad, USB-C, white/black",
+    "price": 149,
+    "category": "keyboards",
+    "image": "https://placehold.co/400x400?text=Magic+KB+Full",
+    "rating": 4.5,
+    "stock": 16
+  },
+  {
+    "id": 357,
+    "name": "Microsoft Sculpt Ergonomic Keyboard",
+    "description": "Split layout, cushioned palm rest, quiet keys, USB dongle",
+    "price": 109,
+    "category": "keyboards",
+    "image": "https://placehold.co/400x400?text=Sculpt+Ergo",
+    "rating": 4.2,
+    "stock": 14
+  },
+  {
+    "id": 358,
+    "name": "Logitech Ergo K860",
+    "description": "Split ergonomic, wrist rest, Bluetooth, USB, multi-device",
+    "price": 129,
+    "category": "keyboards",
+    "image": "https://placehold.co/400x400?text=Ergo+K860",
+    "rating": 4.4,
+    "stock": 16
+  },
+  {
+    "id": 359,
+    "name": "APC Back-UPS Pro 1500VA",
+    "description": "Pure sine wave, 1.5kVA/1kW, 10 outlets, USB charging, LCD",
+    "price": 299,
+    "category": "power",
+    "image": "https://placehold.co/400x400?text=APC+1500VA",
+    "rating": 4.6,
+    "stock": 9
+  },
+  {
+    "id": 360,
+    "name": "CyberPower CP1500PFCLCD",
+    "description": "Pure sine wave, 1500VA/1000W, PFC compatible, LCD display",
+    "price": 249,
+    "category": "power",
+    "image": "https://placehold.co/400x400?text=CP1500PFCLCD",
+    "rating": 4.5,
+    "stock": 10
+  },
+  {
+    "id": 361,
+    "name": "Eaton 5P 850VA",
+    "description": "Line-interactive UPS, pure sine wave, USB, tower/rack",
+    "price": 199,
+    "category": "power",
+    "image": "https://placehold.co/400x400?text=Eaton+5P+850",
+    "rating": 4.4,
+    "stock": 8
+  },
+  {
+    "id": 362,
+    "name": "NZXT Capsule Mini",
+    "description": "USB cardioid mic, 24-bit/96kHz, aluminum, RGB ring",
+    "price": 99,
+    "category": "recording",
+    "image": "https://placehold.co/400x400?text=Capsule+Mini",
+    "rating": 4.4,
+    "stock": 16
+  },
+  {
+    "id": 363,
+    "name": "HyperX QuadCast S",
+    "description": "RGB USB condenser mic, multi-pattern, tap-to-mute, shock mount",
+    "price": 159,
+    "category": "recording",
+    "image": "https://placehold.co/400x400?text=QuadCast+S",
+    "rating": 4.5,
+    "stock": 14
+  },
+  {
+    "id": 364,
+    "name": "Logitech Litra Glow",
+    "description": "Premium LED streaming light, True Soft technology, USB",
+    "price": 79,
+    "category": "office",
+    "image": "https://placehold.co/400x400?text=Litra+Glow",
+    "rating": 4.5,
+    "stock": 20
+  },
+  {
+    "id": 365,
+    "name": "Elgato Key Light Mini",
+    "description": "Panel light, 800 lux, adjustable temp 2900-7000K, USB-C",
+    "price": 99,
+    "category": "office",
+    "image": "https://placehold.co/400x400?text=Key+Light+Mini",
+    "rating": 4.4,
+    "stock": 18
+  },
+  {
+    "id": 366,
+    "name": "Anker Soundcore Q45",
+    "description": "ANC headphones, LDAC, 50h battery, foldable, USB-C",
+    "price": 79,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=Soundcore+Q45",
+    "rating": 4.2,
+    "stock": 28
+  },
+  {
+    "id": 367,
+    "name": "Edifier W830NB",
+    "description": "Hybrid ANC, LDAC, 49h, USB-C, foldable, 2-device",
+    "price": 69,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=Edifier+W830NB",
+    "rating": 4.1,
+    "stock": 32
+  },
+  {
+    "id": 368,
+    "name": "EarFun Air Pro 4",
+    "description": "Snapdragon Sound, LDAC, 52dB ANC, 52h, 10mm driver",
+    "price": 79,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=Air+Pro+4",
+    "rating": 4.3,
+    "stock": 25
+  },
+  {
+    "id": 369,
+    "name": "Soundpeats Engine 4",
+    "description": "LDAC, 30Ω planar driver TWS, ENC mic, 9h + 36h",
+    "price": 89,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=Engine+4",
+    "rating": 4.3,
+    "stock": 22
+  },
+  {
+    "id": 370,
+    "name": "Fiio FT3",
+    "description": "Open-back planar magnetic, 76mm driver, 3.5mm + 4.4mm",
+    "price": 249,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=Fiio+FT3",
+    "rating": 4.5,
+    "stock": 8
+  },
+  {
+    "id": 371,
+    "name": "Sennheiser IE 200",
+    "description": "In-ear hi-fi, TrueResponse transducer, 7Hz-42kHz, detachable",
+    "price": 149,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=IE+200",
+    "rating": 4.5,
+    "stock": 12
+  },
+  {
+    "id": 372,
+    "name": "Moondrop Aria 2",
+    "description": "Dynamic driver IEM, DLC diaphragm, 3.5mm, MMCX",
+    "price": 79,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=Moondrop+Aria2",
+    "rating": 4.4,
+    "stock": 18
+  },
+  {
+    "id": 373,
+    "name": "Tripowin x HBB Mele",
+    "description": "Single DD IEM, 10mm composite diaphragm, 3.5mm",
+    "price": 29,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=Mele+IEM",
+    "rating": 4.3,
+    "stock": 30
+  },
+  {
+    "id": 374,
+    "name": "FiiO M11S",
+    "description": "Hi-res DAP, Snapdragon 660, LDAC, MQA, balanced 4.4mm out",
+    "price": 449,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=FiiO+M11S",
+    "rating": 4.5,
+    "stock": 7
+  },
+  {
+    "id": 375,
+    "name": "Shanling M3 Ultra",
+    "description": "Portable DAP, Snapdragon 665, 4.4mm balanced, streaming, aptX HD",
+    "price": 299,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=M3+Ultra",
+    "rating": 4.4,
+    "stock": 9
+  },
+  {
+    "id": 376,
+    "name": "Xiaomi Redmi Buds 5 Pro",
+    "description": "ANC 52dB, LHDC 5.0, 10mm + 6mm dual driver, 38h total",
+    "price": 59,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=Redmi+Buds5+Pro",
+    "rating": 4.1,
+    "stock": 35
+  },
+  {
+    "id": 377,
+    "name": "OnePlus Buds Pro 3",
+    "description": "50dB ANC, LHDC 5.0, Dynaudio-tuned, 44h, 3 mics",
+    "price": 99,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=Buds+Pro+3",
+    "rating": 4.2,
+    "stock": 22
+  },
+  {
+    "id": 378,
+    "name": "Jabra Elite 10 Gen 2",
+    "description": "Dolby Head Tracking, MultiSensor Voice, 36h ANC, IP57",
+    "price": 279,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=Elite+10+Gen2",
+    "rating": 4.6,
+    "stock": 11
+  },
+  {
+    "id": 379,
+    "name": "Anker Soundcore Liberty 4 NC",
+    "description": "98.5% noise reduction, 10mm + 6mm, LDAC, 50h",
+    "price": 99,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=Liberty+4+NC",
+    "rating": 4.3,
+    "stock": 24
+  },
+  {
+    "id": 380,
+    "name": "Bose QuietComfort Ultra Earbuds",
+    "description": "Immersive audio, spatial audio, world-class ANC, 24h",
+    "price": 299,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=QC+Ultra+Earbuds",
+    "rating": 4.6,
+    "stock": 12
+  },
+  {
+    "id": 381,
+    "name": "Google Pixel Buds Pro 2",
+    "description": "Tensor A1, Conversation Detection, ANC, spatial audio",
+    "price": 229,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=Pixel+Buds+Pro2",
+    "rating": 4.5,
+    "stock": 15
+  },
+  {
+    "id": 382,
+    "name": "Cambridge Audio Melomania M100",
+    "description": "ANC, 10mm graphene driver, 50h, IPX5, USB-C",
+    "price": 149,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=Melomania+M100",
+    "rating": 4.4,
+    "stock": 13
+  },
+  {
+    "id": 383,
+    "name": "Shure SE846",
+    "description": "Quad-driver IEM, tunable sound, Bluetooth + wired, audiophile",
+    "price": 999,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=Shure+SE846",
+    "rating": 4.7,
+    "stock": 4
+  },
+  {
+    "id": 384,
+    "name": "Sony MDR-Z1R",
+    "description": "Flagship over-ear, 70mm driver, 4Hz-120kHz, 4.4mm balanced",
+    "price": 2299,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=MDR-Z1R",
+    "rating": 4.8,
+    "stock": 2
+  },
+  {
+    "id": 385,
+    "name": "Audeze LCD-X",
+    "description": "Planar magnetic, Fluxor magnets, 100dB/1V, open-back",
+    "price": 1199,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=Audeze+LCD-X",
+    "rating": 4.7,
+    "stock": 3
+  },
+  {
+    "id": 386,
+    "name": "Samsung Galaxy S24 Ultra",
+    "description": "Snapdragon 8 Gen 3, 200MP camera, built-in S Pen, AI features",
+    "price": 1299,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=S24+Ultra",
+    "rating": 4.7,
+    "stock": 8
+  },
+  {
+    "id": 387,
+    "name": "iPhone 15 Plus",
+    "description": "A16 Bionic, 6.7\" Super Retina XDR, 48MP, all-day battery",
+    "price": 899,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=iPhone+15+Plus",
+    "rating": 4.5,
+    "stock": 14
+  },
+  {
+    "id": 388,
+    "name": "Pixel 9 Pro XL",
+    "description": "Tensor G4, 6.8\" OLED, 50MP triple camera, Gemini AI, 7yr updates",
+    "price": 1099,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=Pixel+9+Pro+XL",
+    "rating": 4.7,
+    "stock": 9
+  },
+  {
+    "id": 389,
+    "name": "Xiaomi 14",
+    "description": "Snapdragon 8 Gen 3, Leica triple cam, 90W wired, 6.36\" OLED",
+    "price": 799,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=Xiaomi+14",
+    "rating": 4.5,
+    "stock": 11
+  },
+  {
+    "id": 390,
+    "name": "Realme 12 Pro+",
+    "description": "Periscope 3×-6× optical zoom, 50MP, 120Hz AMOLED, 67W",
+    "price": 449,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=Realme+12+Pro+",
+    "rating": 4.1,
+    "stock": 20
+  },
+  {
+    "id": 391,
+    "name": "Tecno Phantom V Fold 2",
+    "description": "7.85\" foldable LTPO AMOLED, Dimensity 9000+, 50MP triple",
+    "price": 1099,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=Phantom+V+Fold2",
+    "rating": 4,
+    "stock": 7
+  },
+  {
+    "id": 392,
+    "name": "Honor Magic V3",
+    "description": "Ultra-thin foldable 4.35mm, Snapdragon 8 Gen 3, 50MP Falcon",
+    "price": 1799,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=Magic+V3",
+    "rating": 4.4,
+    "stock": 5
+  },
+  {
+    "id": 393,
+    "name": "Vivo V40 Pro",
+    "description": "ZEISS portrait camera, Dimensity 9200+, 50MP, 5500mAh 80W",
+    "price": 599,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=Vivo+V40+Pro",
+    "rating": 4.2,
+    "stock": 13
+  },
+  {
+    "id": 394,
+    "name": "Oppo Reno 12 Pro",
+    "description": "Dimensity 9200+, 50MP Hasselblad, 80W SuperVOOC, 6.7\" OLED",
+    "price": 599,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=Reno+12+Pro",
+    "rating": 4.1,
+    "stock": 15
+  },
+  {
+    "id": 395,
+    "name": "Redmi Note 13 Pro+",
+    "description": "200MP OIS camera, Dimensity 7200 Ultra, 120W HyperCharge",
+    "price": 399,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=Note+13+Pro+",
+    "rating": 4.2,
+    "stock": 25
+  },
+  {
+    "id": 396,
+    "name": "Poco X6 Pro",
+    "description": "Dimensity 8300 Ultra, 64MP, 120Hz AMOLED, 67W, 5100mAh",
+    "price": 299,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=Poco+X6+Pro",
+    "rating": 4.1,
+    "stock": 30
+  },
+  {
+    "id": 397,
+    "name": "Asus Zenfone 11 Ultra",
+    "description": "Snapdragon 8 Gen 3, 50MP Gimbal OIS, 165Hz, 5500mAh",
+    "price": 899,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=Zenfone+11+U",
+    "rating": 4.4,
+    "stock": 9
+  },
+  {
+    "id": 398,
+    "name": "Nothing Phone 2",
+    "description": "Snapdragon 8+ Gen 1, Glyph Interface, 50MP, 4700mAh, 45W",
+    "price": 599,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=Nothing+Phone+2",
+    "rating": 4.3,
+    "stock": 12
+  },
+  {
+    "id": 399,
+    "name": "Sony Xperia 5 VI",
+    "description": "6.1\" OLED 120Hz, Zeiss 3× zoom, 4K HDR video, 5000mAh",
+    "price": 999,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=Xperia+5+VI",
+    "rating": 4.4,
+    "stock": 7
+  },
+  {
+    "id": 400,
+    "name": "Motorola Razr 50 Ultra",
+    "description": "Snapdragon 8s Gen 3, 4\" cover display, 165Hz flip OLED",
+    "price": 999,
+    "category": "phones",
+    "image": "https://placehold.co/400x400?text=Razr+50+Ultra",
+    "rating": 4.3,
+    "stock": 8
+  },
+  {
+    "id": 401,
+    "name": "Lenovo Tab P11 Pro Gen 2",
+    "description": "11.2\" OLED 120Hz, Dimensity 1300T, 6GB, 256GB, JBL speakers",
+    "price": 499,
+    "category": "tablets",
+    "image": "https://placehold.co/400x400?text=Tab+P11+Pro+G2",
+    "rating": 4.3,
+    "stock": 10
+  },
+  {
+    "id": 402,
+    "name": "Huawei MatePad 11.5 PaperMatte",
+    "description": "2.8K matte display, anti-reflection, Kirin 9000W, M-Pencil",
+    "price": 499,
+    "category": "tablets",
+    "image": "https://placehold.co/400x400?text=MatePad+11.5",
+    "rating": 4.3,
+    "stock": 8
+  },
+  {
+    "id": 403,
+    "name": "Xiaomi Pad 6S Pro",
+    "description": "12.4\" 3K 144Hz, Snapdragon 8 Gen 2, 120W charging, 10000mAh",
+    "price": 599,
+    "category": "tablets",
+    "image": "https://placehold.co/400x400?text=Pad+6S+Pro",
+    "rating": 4.4,
+    "stock": 7
+  },
+  {
+    "id": 404,
+    "name": "Amazon Fire HD 10 Plus",
+    "description": "10.1\" FHD IPS, 4GB RAM, wireless charging, Alexa",
+    "price": 179,
+    "category": "tablets",
+    "image": "https://placehold.co/400x400?text=Fire+HD10+Plus",
+    "rating": 3.9,
+    "stock": 22
+  },
+  {
+    "id": 405,
+    "name": "Nokia T21",
+    "description": "10.4\" FHD IPS, Unisoc T612, 3-year Android, IP52, 8200mAh",
+    "price": 229,
+    "category": "tablets",
+    "image": "https://placehold.co/400x400?text=Nokia+T21",
+    "rating": 3.8,
+    "stock": 16
+  },
+  {
+    "id": 406,
+    "name": "Honor Pad X9",
+    "description": "11.5\" 120Hz IPS, Snapdragon 685, 7250mAh, 4-speaker array",
+    "price": 249,
+    "category": "tablets",
+    "image": "https://placehold.co/400x400?text=Honor+Pad+X9",
+    "rating": 4.1,
+    "stock": 14
+  },
+  {
+    "id": 407,
+    "name": "Realme Pad 2",
+    "description": "11.5\" 120Hz IPS, Helio G99, 7050mAh, Dolby Atmos, 4G LTE",
+    "price": 299,
+    "category": "tablets",
+    "image": "https://placehold.co/400x400?text=Realme+Pad+2",
+    "rating": 4,
+    "stock": 18
+  },
+  {
+    "id": 408,
+    "name": "ASUS Vivobook 16X OLED",
+    "description": "Core i9-13900H, RTX 4060, 16GB, 16\" OLED 3.2K 120Hz",
+    "price": 1499,
+    "category": "laptops",
+    "image": "https://placehold.co/400x400?text=Vivobook+16X",
+    "rating": 4.5,
+    "stock": 6
+  },
+  {
+    "id": 409,
+    "name": "Acer Predator Helios 18",
+    "description": "Core i9-14900HX, RTX 4090, 32GB, 18\" QHD 250Hz IPS",
+    "price": 3999,
+    "category": "laptops",
+    "image": "https://placehold.co/400x400?text=Helios+18",
+    "rating": 4.6,
+    "stock": 3
+  },
+  {
+    "id": 410,
+    "name": "HP ENVY x360 14",
+    "description": "AMD Ryzen 7 8840U, OLED 2.8K, 2-in-1, HP Tilt Pen, 32GB",
+    "price": 1099,
+    "category": "laptops",
+    "image": "https://placehold.co/400x400?text=ENVY+x360+14",
+    "rating": 4.5,
+    "stock": 7
+  },
+  {
+    "id": 411,
+    "name": "Panasonic Toughbook 55",
+    "description": "Semi-rugged modular laptop, Core i5, MIL-STD-810, swappable drives",
+    "price": 2999,
+    "category": "laptops",
+    "image": "https://placehold.co/400x400?text=Toughbook+55",
+    "rating": 4.3,
+    "stock": 3
+  },
+  {
+    "id": 412,
+    "name": "Honor MagicBook Art 14",
+    "description": "Snapdragon X Elite, 14.5\" OLED 120Hz, 1kg, Wi-Fi 7",
+    "price": 1399,
+    "category": "laptops",
+    "image": "https://placehold.co/400x400?text=MagicBook+Art14",
+    "rating": 4.5,
+    "stock": 6
+  },
+  {
+    "id": 413,
+    "name": "Asus ExpertBook B9 OLED",
+    "description": "Core Ultra 7, 14\" 3K OLED, 990g, 72Wh, OLED EyeCare",
+    "price": 1799,
+    "category": "laptops",
+    "image": "https://placehold.co/400x400?text=ExpertBook+B9",
+    "rating": 4.5,
+    "stock": 5
+  },
+  {
+    "id": 414,
+    "name": "Xiaomi Book Pro 14 2024",
+    "description": "Core Ultra 7, 14\" OLED 3K 90Hz, 32GB, 1TB, 75W GaN",
+    "price": 1199,
+    "category": "laptops",
+    "image": "https://placehold.co/400x400?text=Xiaomi+Book+Pro",
+    "rating": 4.4,
+    "stock": 7
+  },
+  {
+    "id": 415,
+    "name": "MSI Prestige 16 Studio",
+    "description": "Core Ultra 9, RTX 4060, True Pixel display, creator tuned",
+    "price": 1799,
+    "category": "laptops",
+    "image": "https://placehold.co/400x400?text=Prestige+16",
+    "rating": 4.4,
+    "stock": 5
+  },
+  {
+    "id": 416,
+    "name": "Garmin Forerunner 965",
+    "description": "AMOLED GPS watch, Training Readiness, 31-day battery, maps",
+    "price": 599,
+    "category": "smartwatches",
+    "image": "https://placehold.co/400x400?text=Forerunner+965",
+    "rating": 4.8,
+    "stock": 7
+  },
+  {
+    "id": 417,
+    "name": "Suunto Race S",
+    "description": "AMOLED, 26-day GPS, titanium, dive computer, HRV",
+    "price": 549,
+    "category": "smartwatches",
+    "image": "https://placehold.co/400x400?text=Suunto+Race+S",
+    "rating": 4.5,
+    "stock": 8
+  },
+  {
+    "id": 418,
+    "name": "COROS Vertix 2S",
+    "description": "60-day battery, satellite dual-freq, sapphire glass, dive mode",
+    "price": 699,
+    "category": "smartwatches",
+    "image": "https://placehold.co/400x400?text=Vertix+2S",
+    "rating": 4.7,
+    "stock": 6
+  },
+  {
+    "id": 419,
+    "name": "Casio G-Shock GBD-H2000",
+    "description": "GPS + optical HR, carbon core, 5 sensors, Bluetooth training",
+    "price": 399,
+    "category": "smartwatches",
+    "image": "https://placehold.co/400x400?text=GBD-H2000",
+    "rating": 4.4,
+    "stock": 10
+  },
+  {
+    "id": 420,
+    "name": "Fossil Gen 6 Wellness",
+    "description": "Wear OS, SpO2, heart rate, sleep tracking, Google Pay",
+    "price": 249,
+    "category": "smartwatches",
+    "image": "https://placehold.co/400x400?text=Fossil+Gen6",
+    "rating": 3.9,
+    "stock": 14
+  },
+  {
+    "id": 421,
+    "name": "Xiaomi Watch 2 Pro",
+    "description": "Wear OS, AMOLED, Snapdragon W5+, eSIM, 65h mixed battery",
+    "price": 299,
+    "category": "smartwatches",
+    "image": "https://placehold.co/400x400?text=Xiaomi+Watch2+Pro",
+    "rating": 4.3,
+    "stock": 11
+  },
+  {
+    "id": 422,
+    "name": "Amazfit GTR 4",
+    "description": "AMOLED 1.43\", Zepp OS, dual-band GPS, 150 sports, 14-day",
+    "price": 199,
+    "category": "smartwatches",
+    "image": "https://placehold.co/400x400?text=GTR+4",
+    "rating": 4.2,
+    "stock": 16
+  },
+  {
+    "id": 423,
+    "name": "Huawei Band 9",
+    "description": "10-day battery, blood oxygen, heart rate, 1.47\" AMOLED, 14g",
+    "price": 49,
+    "category": "smartwatches",
+    "image": "https://placehold.co/400x400?text=Huawei+Band+9",
+    "rating": 4.1,
+    "stock": 40
+  },
+  {
+    "id": 424,
+    "name": "Samsung Galaxy Watch Ultra",
+    "description": "Titanium, Advanced Health Dashboard, 48h battery, 10ATM",
+    "price": 649,
+    "category": "smartwatches",
+    "image": "https://placehold.co/400x400?text=Watch+Ultra",
+    "rating": 4.6,
+    "stock": 7
+  },
+  {
+    "id": 425,
+    "name": "Apple Watch SE 2",
+    "description": "S8 chip, crash detection, family setup, aluminum, GPS",
+    "price": 249,
+    "category": "smartwatches",
+    "image": "https://placehold.co/400x400?text=Watch+SE+2",
+    "rating": 4.5,
+    "stock": 18
+  },
+  {
+    "id": 426,
+    "name": "Sony A6700",
+    "description": "APS-C AI-based AF, 26MP, 4K 120fps, IBIS, vlogging",
+    "price": 1399,
+    "category": "cameras",
+    "image": "https://placehold.co/400x400?text=Sony+A6700",
+    "rating": 4.7,
+    "stock": 6
+  },
+  {
+    "id": 427,
+    "name": "Fujifilm X-T5",
+    "description": "40MP X-Trans BSI, IBIS, 6.2K video, compact body",
+    "price": 1699,
+    "category": "cameras",
+    "image": "https://placehold.co/400x400?text=X-T5",
+    "rating": 4.8,
+    "stock": 5
+  },
+  {
+    "id": 428,
+    "name": "Canon EOS R8",
+    "description": "24.2MP full-frame, 40fps, 4K 60fps, compact RF mount",
+    "price": 1499,
+    "category": "cameras",
+    "image": "https://placehold.co/400x400?text=EOS+R8",
+    "rating": 4.5,
+    "stock": 7
+  },
+  {
+    "id": 429,
+    "name": "Nikon Z50 II",
+    "description": "APS-C 20.9MP, 4K UHD, flip-down screen, no IBIS, affordable",
+    "price": 799,
+    "category": "cameras",
+    "image": "https://placehold.co/400x400?text=Nikon+Z50+II",
+    "rating": 4.3,
+    "stock": 10
+  },
+  {
+    "id": 430,
+    "name": "Panasonic Lumix S5 II",
+    "description": "L-mount full-frame, PDAF, 6K, 24.2MP, weather sealed",
+    "price": 1999,
+    "category": "cameras",
+    "image": "https://placehold.co/400x400?text=Lumix+S5+II",
+    "rating": 4.7,
+    "stock": 5
+  },
+  {
+    "id": 431,
+    "name": "DJI Pocket 3 Creator Combo",
+    "description": "1\" CMOS, 4K 120fps, ActiveTrack, mic + ND filter bundle",
+    "price": 699,
+    "category": "cameras",
+    "image": "https://placehold.co/400x400?text=Pocket3+Creator",
+    "rating": 4.7,
+    "stock": 8
+  },
+  {
+    "id": 432,
+    "name": "Insta360 GO 3S",
+    "description": "4K action clip-on camera, 68g, magnetic, 3h battery",
+    "price": 379,
+    "category": "cameras",
+    "image": "https://placehold.co/400x400?text=GO+3S",
+    "rating": 4.3,
+    "stock": 12
+  },
+  {
+    "id": 433,
+    "name": "GoPro Max 2",
+    "description": "6K 360° video, Max HyperSmooth, single lens 4K 60fps",
+    "price": 499,
+    "category": "cameras",
+    "image": "https://placehold.co/400x400?text=GoPro+Max+2",
+    "rating": 4.4,
+    "stock": 9
+  },
+  {
+    "id": 434,
+    "name": "Leica Q3",
+    "description": "60MP full-frame, Summilux 28mm f/1.7, 8K video, OLED",
+    "price": 5995,
+    "category": "cameras",
+    "image": "https://placehold.co/400x400?text=Leica+Q3",
+    "rating": 4.8,
+    "stock": 2
+  },
+  {
+    "id": 435,
+    "name": "Hasselblad X2D 100C",
+    "description": "100MP medium format BSI, 15-stop DR, 7×7 IBIS, CFexpress",
+    "price": 7999,
+    "category": "cameras",
+    "image": "https://placehold.co/400x400?text=X2D+100C",
+    "rating": 4.9,
+    "stock": 1
+  },
+  {
+    "id": 436,
+    "name": "Kindle Paperwhite Signature",
+    "description": "6.8\" 300ppi, auto-adjusting warm light, wireless charging, 32GB",
+    "price": 189,
+    "category": "ereaders",
+    "image": "https://placehold.co/400x400?text=Paperwhite+Sig",
+    "rating": 4.7,
+    "stock": 16
+  },
+  {
+    "id": 437,
+    "name": "Kobo Clara BW",
+    "description": "6\" e-ink, ComfortLight PRO, pocket-sized, 1200mAh, IPX8",
+    "price": 129,
+    "category": "ereaders",
+    "image": "https://placehold.co/400x400?text=Kobo+Clara+BW",
+    "rating": 4.4,
+    "stock": 20
+  },
+  {
+    "id": 438,
+    "name": "Kindle Colorsoft",
+    "description": "7\" colour e-ink display, warm light, IPX8, 32GB",
+    "price": 279,
+    "category": "ereaders",
+    "image": "https://placehold.co/400x400?text=Kindle+Colorsoft",
+    "rating": 4.1,
+    "stock": 14
+  },
+  {
+    "id": 439,
+    "name": "Pocketbook Color",
+    "description": "6\" E Ink Kaleido Plus, Carta, SMARTlight, 16GB",
+    "price": 199,
+    "category": "ereaders",
+    "image": "https://placehold.co/400x400?text=Pocketbook+Color",
+    "rating": 4,
+    "stock": 12
+  },
+  {
+    "id": 440,
+    "name": "Yaber K2s Outdoor Projector",
+    "description": "1080p FHD, Android TV, tripod included, IP54, 700 ANSI lumen",
+    "price": 369,
+    "category": "projectors",
+    "image": "https://placehold.co/400x400?text=Yaber+K2s",
+    "rating": 4.2,
+    "stock": 10
+  },
+  {
+    "id": 441,
+    "name": "Dangbei Mars Pro 2",
+    "description": "4K DLP laser, 2200 ANSI, Android TV, auto-keystone, auto-focus",
+    "price": 1499,
+    "category": "projectors",
+    "image": "https://placehold.co/400x400?text=Mars+Pro+2",
+    "rating": 4.6,
+    "stock": 4
+  },
+  {
+    "id": 442,
+    "name": "Formovie Theater UST",
+    "description": "4K Laser UST, 2800 ANSI lumens, Dolby Vision, 100\" screen",
+    "price": 2499,
+    "category": "projectors",
+    "image": "https://placehold.co/400x400?text=Formovie+Theater",
+    "rating": 4.5,
+    "stock": 3
+  },
+  {
+    "id": 443,
+    "name": "Xiaomi TV F2 43\"",
+    "description": "43\" FHD, Dolby DTS, Amazon Fire TV, 4K upscaling, HDMI ARC",
+    "price": 299,
+    "category": "tv",
+    "image": "https://placehold.co/400x400?text=Xiaomi+TV+F2",
+    "rating": 4.1,
+    "stock": 12
+  },
+  {
+    "id": 444,
+    "name": "LG OLED B4 55\"",
+    "description": "55\" OLED evo, 4K 120Hz, G-Sync, FreeSync Premium Pro",
+    "price": 1299,
+    "category": "tv",
+    "image": "https://placehold.co/400x400?text=LG+OLED+B4",
+    "rating": 4.7,
+    "stock": 5
+  },
+  {
+    "id": 445,
+    "name": "Panasonic Z95A 65\"",
+    "description": "MLA OLED, 144Hz, Dolby Vision IQ, Game Mode Extreme, 4K",
+    "price": 2799,
+    "category": "tv",
+    "image": "https://placehold.co/400x400?text=Panasonic+Z95A",
+    "rating": 4.8,
+    "stock": 3
+  },
+  {
+    "id": 446,
+    "name": "Hisense A9N 55\"",
+    "description": "OLED, 4K 144Hz, evo panel, HDMI 2.1, Game Master Pro",
+    "price": 999,
+    "category": "tv",
+    "image": "https://placehold.co/400x400?text=Hisense+A9N",
+    "rating": 4.5,
+    "stock": 5
+  },
+  {
+    "id": 447,
+    "name": "Grundig Vision 8 55\"",
+    "description": "4K QLED, Ambilight 3, Android TV, Dolby Atmos, 60Hz",
+    "price": 699,
+    "category": "tv",
+    "image": "https://placehold.co/400x400?text=Grundig+Vision8",
+    "rating": 4.1,
+    "stock": 8
+  },
+  {
+    "id": 448,
+    "name": "Sharp Aquos 4K 50\"",
+    "description": "4K UHD IPS, Android TV, Harman Kardon audio, HDR10",
+    "price": 549,
+    "category": "tv",
+    "image": "https://placehold.co/400x400?text=Sharp+Aquos+50",
+    "rating": 3.9,
+    "stock": 10
+  },
+  {
+    "id": 449,
+    "name": "NVIDIA GeForce RTX 4070 Ti Super",
+    "description": "16GB GDDR6X, DLSS 3.5, 285W TDP, 4nm Ada Lovelace",
+    "price": 799,
+    "category": "components",
+    "image": "https://placehold.co/400x400?text=RTX+4070+TiS",
+    "rating": 4.7,
+    "stock": 8
+  },
+  {
+    "id": 450,
+    "name": "AMD Radeon RX 7900 GRE",
+    "description": "16GB GDDR6, RDNA 3, open global, FSR 3, 260W",
+    "price": 549,
+    "category": "components",
+    "image": "https://placehold.co/400x400?text=RX+7900+GRE",
+    "rating": 4.5,
+    "stock": 10
+  },
+  {
+    "id": 451,
+    "name": "Intel Arc A770",
+    "description": "16GB GDDR6, XeSS 2, DirectX 12 Ultimate, ray tracing",
+    "price": 349,
+    "category": "components",
+    "image": "https://placehold.co/400x400?text=Arc+A770",
+    "rating": 4.1,
+    "stock": 12
+  },
+  {
+    "id": 452,
+    "name": "ASUS ROG Thor 1000W Platinum II",
+    "description": "80+ Platinum, 10-year warranty, ROG font OLED wattage display",
+    "price": 299,
+    "category": "components",
+    "image": "https://placehold.co/400x400?text=ROG+Thor+1000W",
+    "rating": 4.7,
+    "stock": 7
+  },
+  {
+    "id": 453,
+    "name": "Lian Li O11 Dynamic EVO",
+    "description": "Mid-tower ATX case, dual-chamber, tempered glass, USB-C",
+    "price": 169,
+    "category": "components",
+    "image": "https://placehold.co/400x400?text=O11+Dynamic+EVO",
+    "rating": 4.7,
+    "stock": 10
+  },
+  {
+    "id": 454,
+    "name": "Noctua NH-D15 G2",
+    "description": "Dual-tower CPU cooler, 300W TDP, 2× 150mm NF-A15, AM5 ready",
+    "price": 129,
+    "category": "components",
+    "image": "https://placehold.co/400x400?text=NH-D15+G2",
+    "rating": 4.9,
+    "stock": 11
+  },
+  {
+    "id": 455,
+    "name": "Corsair H170i Elite LCD XT",
+    "description": "420mm AIO, 3× 140mm fans, LCD pump head, 240W+ cooling",
+    "price": 299,
+    "category": "components",
+    "image": "https://placehold.co/400x400?text=H170i+Elite+LCD",
+    "rating": 4.6,
+    "stock": 6
+  },
+  {
+    "id": 456,
+    "name": "Kingston Fury Beast DDR5 64GB",
+    "description": "DDR5-6000 CL30, XMP 3.0, EXPO, desktop kit 2×32GB",
+    "price": 199,
+    "category": "components",
+    "image": "https://placehold.co/400x400?text=Fury+Beast+64GB",
+    "rating": 4.6,
+    "stock": 12
+  },
+  {
+    "id": 457,
+    "name": "ASUS TUF Gaming X670E-Plus",
+    "description": "AM5, DDR5, PCIe 5.0, 2.5GbE, USB4, Wi-Fi 6E, robust VRM",
+    "price": 299,
+    "category": "components",
+    "image": "https://placehold.co/400x400?text=X670E-Plus",
+    "rating": 4.5,
+    "stock": 8
+  },
+  {
+    "id": 458,
+    "name": "Sabrent Rocket 5 Plus 4TB",
+    "description": "PCIe Gen5 NVMe, 14,800MB/s read, M.2 2280, massive cache",
+    "price": 449,
+    "category": "storage",
+    "image": "https://placehold.co/400x400?text=Rocket+5+Plus+4TB",
+    "rating": 4.6,
+    "stock": 5
+  },
+  {
+    "id": 459,
+    "name": "WD Blue SN580 1TB",
+    "description": "PCIe Gen4 NVMe SSD, 4150MB/s, M.2 2280, great value",
+    "price": 69,
+    "category": "storage",
+    "image": "https://placehold.co/400x400?text=WD+Blue+SN580",
+    "rating": 4.5,
+    "stock": 30
+  },
+  {
+    "id": 460,
+    "name": "Kingston XS2000 2TB",
+    "description": "Portable USB 3.2 Gen 2×2 SSD, 2000MB/s, IP55, rubber sleeve",
+    "price": 149,
+    "category": "storage",
+    "image": "https://placehold.co/400x400?text=XS2000+2TB",
+    "rating": 4.5,
+    "stock": 14
+  },
+  {
+    "id": 461,
+    "name": "G-Technology G-DRIVE SSD",
+    "description": "Thunderbolt 3 + USB-C, 2TB, 2800MB/s, space grey",
+    "price": 349,
+    "category": "storage",
+    "image": "https://placehold.co/400x400?text=G-DRIVE+SSD",
+    "rating": 4.4,
+    "stock": 8
+  },
+  {
+    "id": 462,
+    "name": "Crucial X9 Pro 2TB",
+    "description": "Portable SSD, USB 3.2 Gen 2, 1050MB/s, drop resistant, USB-C",
+    "price": 119,
+    "category": "storage",
+    "image": "https://placehold.co/400x400?text=X9+Pro+2TB",
+    "rating": 4.5,
+    "stock": 18
+  },
+  {
+    "id": 463,
+    "name": "TP-Link Kasa Smart Strip KP303",
+    "description": "3-outlet strip, 2× USB, surge protection, no hub, voice control",
+    "price": 29,
+    "category": "smarthome",
+    "image": "https://placehold.co/400x400?text=Kasa+KP303",
+    "rating": 4.3,
+    "stock": 40
+  },
+  {
+    "id": 464,
+    "name": "Philips Hue Play HDMI Sync Box 8K",
+    "description": "HDMI 2.1, sync Hue lights to TV, up to 4 inputs, 8K ready",
+    "price": 299,
+    "category": "smarthome",
+    "image": "https://placehold.co/400x400?text=Hue+Sync+8K",
+    "rating": 4.5,
+    "stock": 9
+  },
+  {
+    "id": 465,
+    "name": "Aqara Hub M3",
+    "description": "Thread + Zigbee + Z-Wave hub, Matter, Homekit, 12 protocols",
+    "price": 79,
+    "category": "smarthome",
+    "image": "https://placehold.co/400x400?text=Aqara+Hub+M3",
+    "rating": 4.5,
+    "stock": 14
+  },
+  {
+    "id": 466,
+    "name": "SwitchBot Hub 2",
+    "description": "IR remote control, temperature/humidity sensor, Matter bridge",
+    "price": 69,
+    "category": "smarthome",
+    "image": "https://placehold.co/400x400?text=SwitchBot+Hub2",
+    "rating": 4.4,
+    "stock": 18
+  },
+  {
+    "id": 467,
+    "name": "Govee Immersion TV Backlight T2",
+    "description": "LED backlight kit, 55-65\", RGBIC, camera color matching, Matter",
+    "price": 119,
+    "category": "smarthome",
+    "image": "https://placehold.co/400x400?text=Govee+T2",
+    "rating": 4.3,
+    "stock": 22
+  },
+  {
+    "id": 468,
+    "name": "Nanoleaf Lines Squared 15-pack",
+    "description": "Smart modular LED lines, 16M colors, Music Visualizer, Thread",
+    "price": 299,
+    "category": "smarthome",
+    "image": "https://placehold.co/400x400?text=Nanoleaf+Lines+15",
+    "rating": 4.2,
+    "stock": 10
+  },
+  {
+    "id": 469,
+    "name": "IKEA DIRIGERA Hub",
+    "description": "Matter hub, USB-C, controls all IKEA smart products",
+    "price": 59,
+    "category": "smarthome",
+    "image": "https://placehold.co/400x400?text=DIRIGERA+Hub",
+    "rating": 4.1,
+    "stock": 25
+  },
+  {
+    "id": 470,
+    "name": "Meross Smart Garage Door Opener",
+    "description": "Wi-Fi, works with Alexa/Google/HomeKit, monitor & control",
+    "price": 39,
+    "category": "smarthome",
+    "image": "https://placehold.co/400x400?text=Meross+Garage",
+    "rating": 4.3,
+    "stock": 28
+  },
+  {
+    "id": 471,
+    "name": "August Wi-Fi Smart Lock Pro",
+    "description": "No hub required, built-in Wi-Fi, auto-lock/unlock, DoorSense",
+    "price": 229,
+    "category": "security",
+    "image": "https://placehold.co/400x400?text=August+Pro",
+    "rating": 4.3,
+    "stock": 12
+  },
+  {
+    "id": 472,
+    "name": "Netgear Arlo Essential 2K Outdoor",
+    "description": "2K video, color night vision, IP65, 12-month battery, ANC",
+    "price": 149,
+    "category": "security",
+    "image": "https://placehold.co/400x400?text=Arlo+2K+Outdoor",
+    "rating": 4.3,
+    "stock": 15
+  },
+  {
+    "id": 473,
+    "name": "Reolink Duo 3 PoE",
+    "description": "Dual-lens 4K+4K, 180° FoV, smart detection, 24/7 recording",
+    "price": 149,
+    "category": "security",
+    "image": "https://placehold.co/400x400?text=Reolink+Duo3",
+    "rating": 4.5,
+    "stock": 13
+  },
+  {
+    "id": 474,
+    "name": "Hikvision AcuSense 4MP",
+    "description": "H.265+, smart detection, 30m IR, vandal-proof, PoE dome",
+    "price": 89,
+    "category": "security",
+    "image": "https://placehold.co/400x400?text=Hikvision+4MP",
+    "rating": 4.4,
+    "stock": 20
+  },
+  {
+    "id": 475,
+    "name": "Logitech Brio 4K Pro Webcam",
+    "description": "4K 90fps, 5× zoom, Windows Hello, dual omni-directional mics",
+    "price": 199,
+    "category": "office",
+    "image": "https://placehold.co/400x400?text=Brio+4K+Pro",
+    "rating": 4.5,
+    "stock": 12
+  },
+  {
+    "id": 476,
+    "name": "Dell UltraSharp WB7022",
+    "description": "4K webcam, AI scene optimization, HDR, 90° FOV, USB-C",
+    "price": 299,
+    "category": "office",
+    "image": "https://placehold.co/400x400?text=Dell+WB7022",
+    "rating": 4.3,
+    "stock": 9
+  },
+  {
+    "id": 477,
+    "name": "Anker PowerConf C300",
+    "description": "Smart 1080p webcam, AI framing, Sony sensor, noise reduction",
+    "price": 79,
+    "category": "office",
+    "image": "https://placehold.co/400x400?text=PowerConf+C300",
+    "rating": 4.4,
+    "stock": 18
+  },
+  {
+    "id": 478,
+    "name": "Poly Voyager Focus 2",
+    "description": "ANC headset, Bluetooth + USB-A dongle, 19h ANC, boom mic",
+    "price": 299,
+    "category": "office",
+    "image": "https://placehold.co/400x400?text=Voyager+Focus2",
+    "rating": 4.5,
+    "stock": 10
+  },
+  {
+    "id": 479,
+    "name": "Neat Bar Pro",
+    "description": "AI 4K video bar, Zoom/Teams certified, 27 mics, 5× zoom",
+    "price": 2999,
+    "category": "office",
+    "image": "https://placehold.co/400x400?text=Neat+Bar+Pro",
+    "rating": 4.6,
+    "stock": 3
+  },
+  {
+    "id": 480,
+    "name": "Sony SRS-XG500",
+    "description": "Portable party speaker, X-Balanced driver, 30h, IP66, karaoke",
+    "price": 449,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=SRS-XG500",
+    "rating": 4.5,
+    "stock": 8
+  },
+  {
+    "id": 481,
+    "name": "Bang & Olufsen Beosound A5",
+    "description": "Portable speaker, Bang & Olufsen signature sound, bamboo, 37h",
+    "price": 999,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=Beosound+A5",
+    "rating": 4.6,
+    "stock": 5
+  },
+  {
+    "id": 482,
+    "name": "JBL PartyBox 120",
+    "description": "160W party speaker, light show, TWS pairing, IPX4, 12h",
+    "price": 499,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=PartyBox+120",
+    "rating": 4.4,
+    "stock": 7
+  },
+  {
+    "id": 483,
+    "name": "Bose TV Speaker",
+    "description": "Compact soundbar, HDMI ARC, optical, Bluetooth, dialogue mode",
+    "price": 279,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=Bose+TV+Speaker",
+    "rating": 4.4,
+    "stock": 12
+  },
+  {
+    "id": 484,
+    "name": "Samsung HW-Q990D",
+    "description": "11.1.4 Dolby Atmos soundbar, SpaceFit Sound+, wireless sub + rears",
+    "price": 1799,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=HW-Q990D",
+    "rating": 4.6,
+    "stock": 4
+  },
+  {
+    "id": 485,
+    "name": "Sonos Arc Ultra",
+    "description": "True Dolby Atmos soundbar, Sound Motion technology, Trueplay",
+    "price": 999,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=Sonos+Arc+Ultra",
+    "rating": 4.7,
+    "stock": 6
+  },
+  {
+    "id": 486,
+    "name": "LG SP9YA",
+    "description": "5.1.2 Dolby Atmos soundbar, Meridian, 520W, HDMI eARC",
+    "price": 599,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=LG+SP9YA",
+    "rating": 4.4,
+    "stock": 8
+  },
+  {
+    "id": 487,
+    "name": "Vizio Elevate",
+    "description": "5.1.4 Dolby Atmos soundbar, rotating speakers, 512W",
+    "price": 799,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=Vizio+Elevate",
+    "rating": 4.3,
+    "stock": 6
+  },
+  {
+    "id": 488,
+    "name": "Kef LSX II LT",
+    "description": "Wireless bookshelf speakers, 200W, HDMI ARC, Roon Ready",
+    "price": 999,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=KEF+LSX+II+LT",
+    "rating": 4.7,
+    "stock": 5
+  },
+  {
+    "id": 489,
+    "name": "Yamaha A-S501",
+    "description": "Integrated stereo amplifier, 85W, phono, DAC, Pure Direct",
+    "price": 499,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=Yamaha+A-S501",
+    "rating": 4.6,
+    "stock": 7
+  },
+  {
+    "id": 490,
+    "name": "Pro-Ject Debut Carbon EVO",
+    "description": "Turntable, Ortofon 2M Red, 8.6\" carbon tonearm, USB out",
+    "price": 499,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=Debut+Carbon+EVO",
+    "rating": 4.7,
+    "stock": 6
+  },
+  {
+    "id": 491,
+    "name": "Audio-Technica AT-LP140XP",
+    "description": "DJ turntable, direct drive, anti-skate, replaceable headshell",
+    "price": 299,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=AT-LP140XP",
+    "rating": 4.5,
+    "stock": 9
+  },
+  {
+    "id": 492,
+    "name": "iFi Zen DAC Signature V2",
+    "description": "USB DAC/amp, 4.4mm balanced, MQA, True Native, desktop",
+    "price": 199,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=Zen+DAC+V2",
+    "rating": 4.5,
+    "stock": 10
+  },
+  {
+    "id": 493,
+    "name": "Chord Mojo 2",
+    "description": "Portable DAC/amp, 35-hour battery, poly add-on support",
+    "price": 599,
+    "category": "audio",
+    "image": "https://placehold.co/400x400?text=Chord+Mojo+2",
+    "rating": 4.7,
+    "stock": 5
+  },
+  {
+    "id": 494,
+    "name": "Antlion ModMic USB",
+    "description": "Detachable boom mic, uni/omni, mute switch, USB-C, 16-bit 48kHz",
+    "price": 79,
+    "category": "recording",
+    "image": "https://placehold.co/400x400?text=ModMic+USB",
+    "rating": 4.3,
+    "stock": 18
+  },
+  {
+    "id": 495,
+    "name": "Sennheiser Profile USB",
+    "description": "Supercardioid USB-C broadcast mic, precise directivity, boom arm",
+    "price": 149,
+    "category": "recording",
+    "image": "https://placehold.co/400x400?text=Profile+USB",
+    "rating": 4.5,
+    "stock": 14
+  },
+  {
+    "id": 496,
+    "name": "Teenage Engineering OP-1 Field",
+    "description": "Portable synthesizer, sampler, multi-track tape, MIDI, USB-C",
+    "price": 1999,
+    "category": "recording",
+    "image": "https://placehold.co/400x400?text=OP-1+Field",
+    "rating": 4.5,
+    "stock": 3
+  },
+  {
+    "id": 497,
+    "name": "Native Instruments Komplete Kontrol S61 MK3",
+    "description": "61-key MIDI keyboard, semi-weighted, light guide, color display",
+    "price": 699,
+    "category": "recording",
+    "image": "https://placehold.co/400x400?text=KK+S61+MK3",
+    "rating": 4.6,
+    "stock": 5
+  },
+  {
+    "id": 498,
+    "name": "Arturia MiniFreak",
+    "description": "Hybrid synth, 37 mini keys, 27 oscillator types, onboard FX",
+    "price": 499,
+    "category": "recording",
+    "image": "https://placehold.co/400x400?text=MiniFreak",
+    "rating": 4.7,
+    "stock": 6
+  },
+  {
+    "id": 499,
+    "name": "Blackmagic Design ATEM Mini Pro ISO",
+    "description": "Livestream switcher, 4× HDMI, USB-C record, ISO recording",
+    "price": 795,
+    "category": "recording",
+    "image": "https://placehold.co/400x400?text=ATEM+Mini+Pro+ISO",
+    "rating": 4.8,
+    "stock": 5
+  },
+  {
+    "id": 500,
+    "name": "Roland GO:MIXER PRO-X",
+    "description": "Audio mixer for creators, 9 inputs, USB-C, compatible all phones",
+    "price": 99,
+    "category": "recording",
+    "image": "https://placehold.co/400x400?text=GO+MIXER+PRO-X",
+    "rating": 4.4,
+    "stock": 14
+  },
+  {
+    "id": 501,
+    "name": "Bambu Lab A1 Mini Combo",
+    "description": "FDM printer + 4-color AMS, 256mm³ volume, 500mm/s, auto-level",
+    "price": 499,
+    "category": "3dprinting",
+    "image": "https://placehold.co/400x400?text=A1+Mini+Combo",
+    "rating": 4.7,
+    "stock": 8
+  },
+  {
+    "id": 502,
+    "name": "Creality Ender-3 V3 SE",
+    "description": "FDM, auto-leveling, CR-Touch, Sprite extruder, 220×220mm",
+    "price": 199,
+    "category": "3dprinting",
+    "image": "https://placehold.co/400x400?text=Ender-3+V3+SE",
+    "rating": 4.4,
+    "stock": 15
+  },
+  {
+    "id": 503,
+    "name": "Phrozen Sonic Mini 8K",
+    "description": "22μm XY resolution, 8K LCD resin, 165×72mm build, 3s cure",
+    "price": 499,
+    "category": "3dprinting",
+    "image": "https://placehold.co/400x400?text=Sonic+Mini+8K",
+    "rating": 4.5,
+    "stock": 7
+  },
+  {
+    "id": 504,
+    "name": "Dobot Magician Lite",
+    "description": "Desktop robot arm, suction + gripper, 500g payload, STEM",
+    "price": 599,
+    "category": "makers",
+    "image": "https://placehold.co/400x400?text=Magician+Lite",
+    "rating": 4.3,
+    "stock": 5
+  },
+  {
+    "id": 505,
+    "name": "xTool D1 Pro 20W Laser Cutter",
+    "description": "20W diode laser, 430×390mm, material detection, safety shield",
+    "price": 899,
+    "category": "makers",
+    "image": "https://placehold.co/400x400?text=xTool+D1+Pro",
+    "rating": 4.5,
+    "stock": 6
+  },
+  {
+    "id": 506,
+    "name": "Elegoo Neptune 4 Max",
+    "description": "FDM 500mm/s, 420×420×480mm large build, Klipper, auto-level",
+    "price": 449,
+    "category": "3dprinting",
+    "image": "https://placehold.co/400x400?text=Neptune+4+Max",
+    "rating": 4.4,
+    "stock": 8
+  },
+  {
+    "id": 507,
+    "name": "Garmin inReach Mini 2",
+    "description": "Satellite communicator, two-way texting, SOS, GPS, 14-day battery",
+    "price": 349,
+    "category": "fitness",
+    "image": "https://placehold.co/400x400?text=inReach+Mini+2",
+    "rating": 4.7,
+    "stock": 10
+  },
+  {
+    "id": 508,
+    "name": "Wahoo KICKR HEADWIND",
+    "description": "Smart fan, syncs to speed/HR/power, 31 speeds, Bluetooth",
+    "price": 249,
+    "category": "fitness",
+    "image": "https://placehold.co/400x400?text=KICKR+Headwind",
+    "rating": 4.4,
+    "stock": 8
+  },
+  {
+    "id": 509,
+    "name": "Bryton Rider 750SE",
+    "description": "GPS cycling computer, 7\" touchscreen, mount maps, DualBand",
+    "price": 399,
+    "category": "fitness",
+    "image": "https://placehold.co/400x400?text=Rider+750SE",
+    "rating": 4.4,
+    "stock": 7
+  },
+  {
+    "id": 510,
+    "name": "Amazfit Bip 5 Unity",
+    "description": "1.91\" AMOLED, 10-day GPS, Zepp Coach, Bluetooth calling",
+    "price": 99,
+    "category": "smartwatches",
+    "image": "https://placehold.co/400x400?text=Bip+5+Unity",
+    "rating": 4,
+    "stock": 22
+  },
+  {
+    "id": 511,
+    "name": "DJI Mini 3",
+    "description": "Under 249g, 4K/30fps, 38-min flight, tri-directional obstacle sensing",
+    "price": 499,
+    "category": "drones",
+    "image": "https://placehold.co/400x400?text=DJI+Mini+3",
+    "rating": 4.5,
+    "stock": 10
+  },
+  {
+    "id": 512,
+    "name": "Autel EVO Max 4T",
+    "description": "Thermal + zoom + wide cameras, 42-min flight, 15km transmission",
+    "price": 7499,
+    "category": "drones",
+    "image": "https://placehold.co/400x400?text=EVO+Max+4T",
+    "rating": 4.7,
+    "stock": 2
+  },
+  {
+    "id": 513,
+    "name": "Holy Stone HS720",
+    "description": "GPS drone, 4K UHD camera, 23-min flight, foldable, follow me",
+    "price": 199,
+    "category": "drones",
+    "image": "https://placehold.co/400x400?text=Holy+Stone+HS720",
+    "rating": 3.8,
+    "stock": 20
+  },
+  {
+    "id": 514,
+    "name": "Parrot Anafi USA Gov",
+    "description": "FLIR thermal + 32× zoom + 4K, secure, US components, 32-min",
+    "price": 6999,
+    "category": "drones",
+    "image": "https://placehold.co/400x400?text=Anafi+USA",
+    "rating": 4.4,
+    "stock": 1
+  },
+  {
+    "id": 515,
+    "name": "Ring Alarm Pro 14-piece",
+    "description": "Home alarm + Eero Wi-Fi 6, cellular backup, Alexa Guard Plus",
+    "price": 499,
+    "category": "security",
+    "image": "https://placehold.co/400x400?text=Ring+Alarm+Pro",
+    "rating": 4.3,
+    "stock": 8
+  },
+  {
+    "id": 516,
+    "name": "Presence One Pro",
+    "description": "180° wide angle security cam, Alerte Sécurité AI, PIR, 4K",
+    "price": 149,
+    "category": "security",
+    "image": "https://placehold.co/400x400?text=Presence+One+Pro",
+    "rating": 4.1,
+    "stock": 12
+  },
+  {
+    "id": 517,
+    "name": "iSmartGate Pro",
+    "description": "Garage controller, camera compatible, multiple gates, voice control",
+    "price": 99,
+    "category": "smarthome",
+    "image": "https://placehold.co/400x400?text=iSmartGate+Pro",
+    "rating": 4.2,
+    "stock": 14
+  },
+  {
+    "id": 518,
+    "name": "Tuya ZigBee Hub",
+    "description": "Smart home hub, Alexa/Google, 128 device support, LAN mode",
+    "price": 19,
+    "category": "smarthome",
+    "image": "https://placehold.co/400x400?text=Tuya+Zigbee+Hub",
+    "rating": 3.9,
+    "stock": 50
+  },
+  {
+    "id": 519,
+    "name": "Positivo SmartTV 50\" 4K",
+    "description": "4K UHD DLED, Google TV, Dolby Atmos, Wi-Fi, AirPlay 2",
+    "price": 399,
+    "category": "tv",
+    "image": "https://placehold.co/400x400?text=Positivo+TV+50",
+    "rating": 3.8,
+    "stock": 10
+  },
+  {
+    "id": 520,
+    "name": "Panasonic KX-TGE474S",
+    "description": "DECT cordless phone, 4-handset, bilingual talking caller ID, USB",
+    "price": 89,
+    "category": "office",
+    "image": "https://placehold.co/400x400?text=KX-TGE474S",
+    "rating": 4,
+    "stock": 16
+  }
+]

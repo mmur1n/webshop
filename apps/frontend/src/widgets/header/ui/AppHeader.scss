@@ -1,0 +1,127 @@
+.app-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 0 32px;
+  min-height: 64px;
+  background-color: var(--c-surface);
+  border-bottom: 1px solid var(--c-border);
+
+  &__container {
+    display: flex;
+    align-items: center;
+  }
+
+  &__top {
+    flex-shrink: 0;
+    text-decoration: none;
+    font-size: 19px;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    line-height: 1;
+    color: var(--c-accent);
+  }
+
+  &__nav {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    margin-left: auto;
+    margin-right: 12px;
+  }
+
+  &__nav-link {
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--c-text-sec);
+    padding: 6px 12px;
+    border-radius: var(--radius-sm);
+    transition:
+      color 0.15s ease,
+      background-color 0.15s ease;
+
+    &:hover {
+      color: var(--c-text);
+      background-color: var(--c-surface-2);
+    }
+
+    &.router-link-active {
+      color: var(--c-accent);
+      background-color: var(--c-accent-light);
+    }
+  }
+
+  &__cart-button {
+    position: relative;
+    flex-shrink: 0;
+    width: 42px;
+    height: 42px;
+    padding: 0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid var(--c-border);
+    border-radius: var(--radius-md);
+    background-color: var(--c-surface);
+    cursor: pointer;
+    transition:
+      background-color 0.15s ease,
+      border-color 0.15s ease;
+
+    &:hover {
+      background-color: var(--c-accent-light);
+      border-color: var(--c-border-focus);
+    }
+
+    &:active {
+      transform: scale(0.97);
+    }
+  }
+
+  &__cart-icon {
+    font-size: 18px;
+    line-height: 1;
+  }
+
+  &__cart-badge {
+    position: absolute;
+    top: -6px;
+    right: -6px;
+    min-width: 18px;
+    height: 18px;
+    padding: 0 5px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 999px;
+    background-color: var(--c-accent);
+    color: #ffffff;
+    font-size: 10px;
+    font-weight: 700;
+    line-height: 1;
+  }
+}
+
+@media (max-width: 768px) {
+  .app-header {
+    padding: 0 16px;
+    min-height: 56px;
+
+    &__top {
+      font-size: 16px;
+    }
+
+    &__nav {
+      margin-right: 8px;
+    }
+
+    &__nav-link {
+      font-size: 13px;
+      padding: 5px 10px;
+    }
+  }
+}

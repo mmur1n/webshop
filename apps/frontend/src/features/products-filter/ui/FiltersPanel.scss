@@ -1,0 +1,125 @@
+.filters-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px;
+  border: 1px solid var(--c-border);
+  border-radius: var(--radius-lg);
+  background-color: var(--c-surface);
+  box-shadow: var(--shadow-sm);
+  min-width: 280px;
+
+  &__header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+  }
+
+  &__title {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 600;
+    color: var(--c-text);
+  }
+
+  &__reset {
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--c-accent);
+    padding: 4px 10px;
+    border-radius: var(--radius-sm);
+    transition:
+      background-color 0.15s ease,
+      color 0.15s ease;
+
+    &:hover {
+      background-color: var(--c-accent-light);
+    }
+  }
+
+  &__group {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  &__group--checkbox {
+    padding-top: 4px;
+  }
+
+  &__label {
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--c-text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+  }
+
+  &__row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+  }
+
+  &__input,
+  &__select {
+    width: 100%;
+    padding: 10px 12px;
+    border: 1px solid var(--c-border);
+    border-radius: var(--radius-sm);
+    font-family: inherit;
+    font-size: 14px;
+    color: var(--c-text);
+    background: var(--c-surface);
+    outline: none;
+    transition:
+      border-color 0.2s ease,
+      box-shadow 0.2s ease;
+
+    &:focus {
+      border-color: var(--c-border-focus);
+      box-shadow: 0 0 0 3px rgba(126, 203, 160, 0.18);
+    }
+  }
+
+  &__checkbox {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    font-size: 14px;
+    color: var(--c-text);
+  }
+}
+
+@media (max-width: 768px) {
+  .filters-panel {
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    gap: 12px;
+    padding: 16px;
+    min-width: 0;
+
+    &__header {
+      width: 100%;
+      margin-bottom: 0;
+    }
+
+    &__group {
+      flex: 1 1 140px;
+      min-width: 0;
+    }
+
+    &__group--checkbox {
+      flex: 0 0 auto;
+      align-self: center;
+      padding-top: 0;
+    }
+  }
+}

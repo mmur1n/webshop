@@ -1,0 +1,122 @@
+.product-card-skeleton {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background: var(--c-surface);
+  border: 1px solid var(--c-border);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+
+  &__image {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    background: var(--c-surface-2);
+  }
+
+  &__content {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    gap: 12px;
+    padding: 16px;
+  }
+
+  &__meta {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+  }
+
+  &__category {
+    height: 13px;
+    width: 90px;
+    border-radius: var(--radius-sm);
+    background: var(--c-surface-2);
+  }
+
+  &__rating {
+    height: 13px;
+    width: 48px;
+    border-radius: var(--radius-sm);
+    background: var(--c-surface-2);
+  }
+
+  &__title {
+    height: 20px;
+    width: 100%;
+    border-radius: var(--radius-sm);
+    background: var(--c-surface-2);
+
+    &--short {
+      width: 70%;
+    }
+  }
+
+  &__description {
+    height: 13px;
+    width: 100%;
+    border-radius: var(--radius-sm);
+    background: var(--c-surface-2);
+
+    &--short {
+      width: 80%;
+    }
+  }
+
+  &__footer {
+    margin-top: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    padding-top: 4px;
+  }
+
+  &__price {
+    height: 24px;
+    width: 70px;
+    border-radius: var(--radius-sm);
+    background: var(--c-surface-2);
+  }
+
+  &__stock {
+    height: 14px;
+    width: 90px;
+    border-radius: var(--radius-sm);
+    background: var(--c-surface-2);
+  }
+
+  &__button {
+    height: 44px;
+    width: 100%;
+    border-radius: var(--radius-md);
+    background: var(--c-surface-2);
+  }
+}
+
+.shimmer {
+  position: relative;
+  overflow: hidden;
+}
+
+.shimmer::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  transform: translateX(-100%);
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    rgba(255, 255, 255, 0.7) 50%,
+    transparent 100%
+  );
+  animation: shimmer 1.4s infinite;
+}
+
+@keyframes shimmer {
+  100% {
+    transform: translateX(100%);
+  }
+}
