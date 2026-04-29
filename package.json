@@ -15,7 +15,8 @@
     "start:backend": "npm run start:prod -w backend",
     "start:frontend": "serve apps/frontend/dist -s -l $PORT",
     "prisma:generate": "npm run prisma:generate -w backend",
-    "prisma:deploy": "npm run prisma:deploy -w backend"
+    "prisma:deploy": "npm run prisma:deploy -w backend",
+    "prisma:seed": "npm run prisma:seed -w backend"
   },
   "devDependencies": {
     "typescript": "^5.9.0"
