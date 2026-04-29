@@ -4,7 +4,7 @@ Full-stack e-commerce application built as a portfolio project. Features a produ
 
 ## 🚀 Live Demo
 
-> Coming soon
+🔗 https://webshop.murin.tech
 
 ## ✨ Features
 
@@ -17,6 +17,7 @@ Full-stack e-commerce application built as a portfolio project. Features a produ
 ## 🛠 Tech Stack
 
 ### Frontend
+
 - **Vue 3** (Composition API, `<script setup>`)
 - **TypeScript**
 - **Vite**
@@ -26,12 +27,14 @@ Full-stack e-commerce application built as a portfolio project. Features a produ
 - **Feature-Sliced Design** — architectural pattern
 
 ### Backend
+
 - **NestJS**
 - **Prisma ORM** with driver adapter (`@prisma/adapter-pg`)
 - **PostgreSQL**
 - **class-validator** / **class-transformer** — DTO validation
 
 ### Shared
+
 - **`@webshop/shared`** — internal package with shared TypeScript interfaces, enums, and constants
 
 ## 📦 Project Structure
@@ -65,10 +68,14 @@ Both apps import from the same source of truth:
 
 ```ts
 // apps/backend/src/products/dto/get-products.dto.ts
-import { IGetProductsParams, ProductSortOrder, PRODUCT_PAGINATION_DEFAULTS } from '@webshop/shared'
+import {
+  IGetProductsParams,
+  ProductSortOrder,
+  PRODUCT_PAGINATION_DEFAULTS,
+} from "@webshop/shared";
 
 // apps/frontend/src/stores/products.store.ts
-import type { IProduct, IGetProductsParams } from '@webshop/shared'
+import type { IProduct, IGetProductsParams } from "@webshop/shared";
 ```
 
 This eliminates type duplication and prevents mismatches between frontend and backend.
@@ -122,17 +129,18 @@ npm run dev:frontend
 
 See `.env.example` files in each app directory.
 
-| Variable | App | Description |
-|----------|-----|-------------|
-| `DATABASE_URL` | backend | PostgreSQL connection string |
-| `FRONTEND_URL` | backend | Frontend origin (for CORS) |
-| `VITE_API_URL` | frontend | Backend API base URL |
+| Variable       | App      | Description                  |
+| -------------- | -------- | ---------------------------- |
+| `DATABASE_URL` | backend  | PostgreSQL connection string |
+| `FRONTEND_URL` | backend  | Frontend origin (for CORS)   |
+| `VITE_API_URL` | frontend | Backend API base URL         |
 
 ## 🚀 Deployment
 
 The project is designed to deploy as two separate services from the same repository (e.g. Railway):
 
 **Backend service:**
+
 ```bash
 # Build
 npm run build:shared && npm run build:backend
@@ -142,6 +150,7 @@ npm run start:backend
 ```
 
 **Frontend service:**
+
 ```bash
 # Build
 npm run build:shared && npm run build:frontend
